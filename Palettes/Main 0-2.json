@@ -646,7 +646,7 @@
     {
       "priority": false,
       "collision": 1,
-      "h_flippable": false,
+      "h_flippable": true,
       "v_flippable": false,
       "pixels": [
         [ 7, 4, 4, 4, 7, 7, 7, 7 ],
