@@ -199,7 +199,7 @@
       "priority": false,
       "collision": 0,
       "h_flippable": false,
-      "v_flippable": false,
+      "v_flippable": true,
       "pixels": [
         [ 1, 1, 1, 3, 4, 4, 3, 3 ],
         [ 2, 2, 1, 1, 1, 3, 4, 3 ],
