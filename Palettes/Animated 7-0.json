@@ -1030,8 +1030,8 @@
     {
       "priority": false,
       "collision": 0,
-      "h_flippable": false,
-      "v_flippable": false,
+      "h_flippable": true,
+      "v_flippable": true,
       "pixels": [
         [ 0, 0, 0, 0, 0, 0, 0, 0 ],
         [ 0, 0, 0, 0, 0, 0, 0, 0 ],
