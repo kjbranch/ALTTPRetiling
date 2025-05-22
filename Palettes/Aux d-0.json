@@ -20,6 +20,7 @@
   ],
   "tiles": [
     {
+      "id": 0,
       "priority": false,
       "collision": 0,
       "h_flippable": true,
@@ -36,6 +37,7 @@
       ]
     },
     {
+      "id": 1,
       "priority": false,
       "collision": 0,
       "h_flippable": true,
@@ -52,6 +54,7 @@
       ]
     },
     {
+      "id": 2,
       "priority": false,
       "collision": 0,
       "h_flippable": true,
@@ -68,6 +71,7 @@
       ]
     },
     {
+      "id": 3,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -84,6 +88,7 @@
       ]
     },
     {
+      "id": 4,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -100,6 +105,7 @@
       ]
     },
     {
+      "id": 5,
       "priority": false,
       "collision": 0,
       "h_flippable": true,
@@ -116,6 +122,7 @@
       ]
     },
     {
+      "id": 6,
       "priority": false,
       "collision": 0,
       "h_flippable": true,
@@ -132,6 +139,7 @@
       ]
     },
     {
+      "id": 7,
       "priority": false,
       "collision": 0,
       "h_flippable": true,
@@ -148,6 +156,7 @@
       ]
     },
     {
+      "id": 8,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -164,6 +173,7 @@
       ]
     },
     {
+      "id": 9,
       "priority": false,
       "collision": 0,
       "h_flippable": true,
@@ -180,6 +190,7 @@
       ]
     },
     {
+      "id": 10,
       "priority": false,
       "collision": 0,
       "h_flippable": true,
@@ -196,6 +207,7 @@
       ]
     },
     {
+      "id": 11,
       "priority": false,
       "collision": 0,
       "h_flippable": true,
@@ -212,6 +224,7 @@
       ]
     },
     {
+      "id": 12,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -228,6 +241,7 @@
       ]
     },
     {
+      "id": 13,
       "priority": false,
       "collision": 0,
       "h_flippable": true,
@@ -244,6 +258,7 @@
       ]
     },
     {
+      "id": 14,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -260,6 +275,7 @@
       ]
     },
     {
+      "id": 15,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -276,6 +292,7 @@
       ]
     },
     {
+      "id": 16,
       "priority": false,
       "collision": 1,
       "h_flippable": true,
@@ -292,6 +309,7 @@
       ]
     },
     {
+      "id": 17,
       "priority": false,
       "collision": 1,
       "h_flippable": true,
@@ -308,6 +326,7 @@
       ]
     },
     {
+      "id": 18,
       "priority": false,
       "collision": 2,
       "h_flippable": false,
@@ -324,6 +343,7 @@
       ]
     },
     {
+      "id": 19,
       "priority": false,
       "collision": 1,
       "h_flippable": true,
@@ -340,6 +360,7 @@
       ]
     },
     {
+      "id": 20,
       "priority": false,
       "collision": 1,
       "h_flippable": true,
@@ -356,6 +377,7 @@
       ]
     },
     {
+      "id": 21,
       "priority": false,
       "collision": 0,
       "h_flippable": true,
@@ -372,6 +394,7 @@
       ]
     },
     {
+      "id": 22,
       "priority": false,
       "collision": 0,
       "h_flippable": true,
@@ -388,6 +411,7 @@
       ]
     },
     {
+      "id": 23,
       "priority": false,
       "collision": 0,
       "h_flippable": true,
@@ -404,6 +428,7 @@
       ]
     },
     {
+      "id": 24,
       "priority": false,
       "collision": 1,
       "h_flippable": true,
@@ -420,6 +445,7 @@
       ]
     },
     {
+      "id": 25,
       "priority": false,
       "collision": 1,
       "h_flippable": true,
@@ -436,6 +462,7 @@
       ]
     },
     {
+      "id": 26,
       "priority": false,
       "collision": 2,
       "h_flippable": false,
@@ -452,6 +479,7 @@
       ]
     },
     {
+      "id": 27,
       "priority": false,
       "collision": 1,
       "h_flippable": true,
@@ -468,6 +496,7 @@
       ]
     },
     {
+      "id": 28,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -484,6 +513,7 @@
       ]
     },
     {
+      "id": 29,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -500,6 +530,7 @@
       ]
     },
     {
+      "id": 30,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -516,6 +547,7 @@
       ]
     },
     {
+      "id": 31,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -532,6 +564,7 @@
       ]
     },
     {
+      "id": 32,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -548,6 +581,7 @@
       ]
     },
     {
+      "id": 33,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -564,6 +598,7 @@
       ]
     },
     {
+      "id": 34,
       "priority": false,
       "collision": 67,
       "h_flippable": false,
@@ -580,6 +615,7 @@
       ]
     },
     {
+      "id": 35,
       "priority": false,
       "collision": 1,
       "h_flippable": false,
@@ -596,6 +632,7 @@
       ]
     },
     {
+      "id": 36,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -612,6 +649,7 @@
       ]
     },
     {
+      "id": 37,
       "priority": false,
       "collision": 2,
       "h_flippable": false,
@@ -628,6 +666,7 @@
       ]
     },
     {
+      "id": 38,
       "priority": false,
       "collision": 2,
       "h_flippable": false,
@@ -644,6 +683,7 @@
       ]
     },
     {
+      "id": 39,
       "priority": false,
       "collision": 0,
       "h_flippable": true,
@@ -660,6 +700,7 @@
       ]
     },
     {
+      "id": 40,
       "priority": true,
       "collision": 2,
       "h_flippable": true,
@@ -676,6 +717,7 @@
       ]
     },
     {
+      "id": 41,
       "priority": true,
       "collision": 2,
       "h_flippable": true,
@@ -692,6 +734,7 @@
       ]
     },
     {
+      "id": 42,
       "priority": true,
       "collision": 1,
       "h_flippable": true,
@@ -708,6 +751,7 @@
       ]
     },
     {
+      "id": 43,
       "priority": true,
       "collision": 1,
       "h_flippable": true,
@@ -724,6 +768,7 @@
       ]
     },
     {
+      "id": 44,
       "priority": false,
       "collision": 34,
       "h_flippable": true,
@@ -740,6 +785,7 @@
       ]
     },
     {
+      "id": 45,
       "priority": false,
       "collision": 34,
       "h_flippable": true,
@@ -756,6 +802,7 @@
       ]
     },
     {
+      "id": 46,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -772,6 +819,7 @@
       ]
     },
     {
+      "id": 47,
       "priority": false,
       "collision": 1,
       "h_flippable": true,
@@ -788,6 +836,7 @@
       ]
     },
     {
+      "id": 48,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -804,6 +853,7 @@
       ]
     },
     {
+      "id": 49,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -820,6 +870,7 @@
       ]
     },
     {
+      "id": 50,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -836,6 +887,7 @@
       ]
     },
     {
+      "id": 51,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -852,6 +904,7 @@
       ]
     },
     {
+      "id": 52,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -868,6 +921,7 @@
       ]
     },
     {
+      "id": 53,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -884,6 +938,7 @@
       ]
     },
     {
+      "id": 54,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -900,6 +955,7 @@
       ]
     },
     {
+      "id": 55,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -916,6 +972,7 @@
       ]
     },
     {
+      "id": 56,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -932,6 +989,7 @@
       ]
     },
     {
+      "id": 57,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -948,6 +1006,7 @@
       ]
     },
     {
+      "id": 58,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -964,6 +1023,7 @@
       ]
     },
     {
+      "id": 59,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -980,6 +1040,7 @@
       ]
     },
     {
+      "id": 60,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -996,6 +1057,7 @@
       ]
     },
     {
+      "id": 61,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -1012,6 +1074,7 @@
       ]
     },
     {
+      "id": 62,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -1028,6 +1091,7 @@
       ]
     },
     {
+      "id": 63,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -1044,6 +1108,7 @@
       ]
     },
     {
+      "id": 64,
       "priority": false,
       "collision": 4,
       "h_flippable": true,
@@ -1060,6 +1125,7 @@
       ]
     },
     {
+      "id": 65,
       "priority": true,
       "collision": 4,
       "h_flippable": true,
@@ -1076,6 +1142,7 @@
       ]
     },
     {
+      "id": 66,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -1092,6 +1159,7 @@
       ]
     },
     {
+      "id": 67,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -1108,6 +1176,7 @@
       ]
     },
     {
+      "id": 68,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -1124,6 +1193,7 @@
       ]
     },
     {
+      "id": 69,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -1140,6 +1210,7 @@
       ]
     },
     {
+      "id": 70,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -1156,6 +1227,7 @@
       ]
     },
     {
+      "id": 71,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -1172,6 +1244,7 @@
       ]
     },
     {
+      "id": 72,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -1188,6 +1261,7 @@
       ]
     },
     {
+      "id": 73,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -1204,6 +1278,7 @@
       ]
     },
     {
+      "id": 74,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -1220,6 +1295,7 @@
       ]
     },
     {
+      "id": 75,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -1236,6 +1312,7 @@
       ]
     },
     {
+      "id": 76,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -1252,6 +1329,7 @@
       ]
     },
     {
+      "id": 77,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -1268,6 +1346,7 @@
       ]
     },
     {
+      "id": 78,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -1284,6 +1363,7 @@
       ]
     },
     {
+      "id": 79,
       "priority": false,
       "collision": 0,
       "h_flippable": false,

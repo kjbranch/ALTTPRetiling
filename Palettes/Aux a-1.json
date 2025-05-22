@@ -20,6 +20,7 @@
   ],
   "tiles": [
     {
+      "id": 0,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -36,6 +37,7 @@
       ]
     },
     {
+      "id": 1,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -52,6 +54,7 @@
       ]
     },
     {
+      "id": 2,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -68,6 +71,7 @@
       ]
     },
     {
+      "id": 3,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -84,6 +88,7 @@
       ]
     },
     {
+      "id": 4,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -100,6 +105,7 @@
       ]
     },
     {
+      "id": 5,
       "priority": false,
       "collision": 0,
       "h_flippable": true,
@@ -116,6 +122,7 @@
       ]
     },
     {
+      "id": 6,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -132,6 +139,7 @@
       ]
     },
     {
+      "id": 7,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -148,6 +156,7 @@
       ]
     },
     {
+      "id": 8,
       "priority": false,
       "collision": 0,
       "h_flippable": true,
@@ -164,6 +173,7 @@
       ]
     },
     {
+      "id": 9,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -180,6 +190,7 @@
       ]
     },
     {
+      "id": 10,
       "priority": false,
       "collision": 0,
       "h_flippable": true,
@@ -196,6 +207,7 @@
       ]
     },
     {
+      "id": 11,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -212,6 +224,7 @@
       ]
     },
     {
+      "id": 12,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -228,6 +241,7 @@
       ]
     },
     {
+      "id": 13,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -244,6 +258,7 @@
       ]
     },
     {
+      "id": 14,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -260,6 +275,7 @@
       ]
     },
     {
+      "id": 15,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -276,6 +292,7 @@
       ]
     },
     {
+      "id": 16,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -292,6 +309,7 @@
       ]
     },
     {
+      "id": 17,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -308,6 +326,7 @@
       ]
     },
     {
+      "id": 18,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -324,6 +343,7 @@
       ]
     },
     {
+      "id": 19,
       "priority": false,
       "collision": 66,
       "h_flippable": true,
@@ -340,6 +360,7 @@
       ]
     },
     {
+      "id": 20,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -356,6 +377,7 @@
       ]
     },
     {
+      "id": 21,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -372,6 +394,7 @@
       ]
     },
     {
+      "id": 22,
       "priority": false,
       "collision": 0,
       "h_flippable": true,
@@ -388,6 +411,7 @@
       ]
     },
     {
+      "id": 23,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -404,6 +428,7 @@
       ]
     },
     {
+      "id": 24,
       "priority": false,
       "collision": 34,
       "h_flippable": true,
@@ -420,6 +445,7 @@
       ]
     },
     {
+      "id": 25,
       "priority": false,
       "collision": 2,
       "h_flippable": true,
@@ -436,6 +462,7 @@
       ]
     },
     {
+      "id": 26,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -452,6 +479,7 @@
       ]
     },
     {
+      "id": 27,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -468,6 +496,7 @@
       ]
     },
     {
+      "id": 28,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -484,6 +513,7 @@
       ]
     },
     {
+      "id": 29,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -500,6 +530,7 @@
       ]
     },
     {
+      "id": 30,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -516,6 +547,7 @@
       ]
     },
     {
+      "id": 31,
       "priority": false,
       "collision": 0,
       "h_flippable": false,
