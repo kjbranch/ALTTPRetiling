@@ -159,8 +159,8 @@
       "id": 8,
       "priority": true,
       "collision": 1,
-      "h_flippable": true,
-      "v_flippable": true,
+      "h_flippable": false,
+      "v_flippable": false,
       "pixels": [
         [ 7, 7, 7, 7, 7, 7, 7, 7 ],
         [ 7, 7, 7, 7, 7, 7, 7, 7 ],
