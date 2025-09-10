@@ -228,7 +228,7 @@
       "priority": false,
       "collision": 1,
       "h_flippable": true,
-      "v_flippable": true,
+      "v_flippable": false,
       "pixels": [
         [ 2, 2, 1, 1, 1, 1, 1, 1 ],
         [ 2, 1, 1, 1, 1, 2, 2, 2 ],
@@ -245,7 +245,7 @@
       "priority": false,
       "collision": 1,
       "h_flippable": true,
-      "v_flippable": true,
+      "v_flippable": false,
       "pixels": [
         [ 4, 3, 2, 1, 1, 1, 1, 1 ],
         [ 4, 3, 2, 1, 1, 2, 2, 2 ],
