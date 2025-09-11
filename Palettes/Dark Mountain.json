@@ -8626,7 +8626,7 @@
       "priority": false,
       "collision": 18,
       "h_flippable": true,
-      "v_flippable": true,
+      "v_flippable": false,
       "pixels": [
         [ 10, 10, 10, 8, 8, 8, 1, 1 ],
         [ 10, 10, 10, 8, 8, 8, 1, 1 ],
@@ -8643,7 +8643,7 @@
       "priority": false,
       "collision": 18,
       "h_flippable": true,
-      "v_flippable": true,
+      "v_flippable": false,
       "pixels": [
         [ 10, 8, 8, 8, 8, 8, 8, 8 ],
         [ 10, 8, 8, 8, 8, 8, 8, 8 ],
