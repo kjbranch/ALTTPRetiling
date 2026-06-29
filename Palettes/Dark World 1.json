@@ -4750,7 +4750,7 @@
       "priority": false,
       "collision": 1,
       "h_flippable": true,
-      "v_flippable": false,
+      "v_flippable": true,
       "pixels": [
         [ 3, 8, 1, 4, 4, 4, 7, 7 ],
         [ 7, 4, 3, 1, 1, 4, 4, 7 ],
