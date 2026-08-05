@@ -1535,7 +1535,7 @@
     {
       "id": 89,
       "priority": false,
-      "collision": 18,
+      "collision": 19,
       "h_flippable": true,
       "v_flippable": false,
       "pixels": [
@@ -1552,7 +1552,7 @@
     {
       "id": 90,
       "priority": false,
-      "collision": 26,
+      "collision": 27,
       "h_flippable": true,
       "v_flippable": false,
       "pixels": [
@@ -1586,7 +1586,7 @@
     {
       "id": 92,
       "priority": false,
-      "collision": 16,
+      "collision": 17,
       "h_flippable": true,
       "v_flippable": false,
       "pixels": [
@@ -1603,7 +1603,7 @@
     {
       "id": 93,
       "priority": false,
-      "collision": 24,
+      "collision": 25,
       "h_flippable": true,
       "v_flippable": false,
       "pixels": [
