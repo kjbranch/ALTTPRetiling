@@ -3591,7 +3591,7 @@
     },
     {
       "id": 210,
-      "priority": true,
+      "priority": false,
       "collision": 0,
       "h_flippable": true,
       "v_flippable": true,
@@ -4492,7 +4492,7 @@
     },
     {
       "id": 263,
-      "priority": false,
+      "priority": true,
       "collision": 0,
       "h_flippable": true,
       "v_flippable": true,
