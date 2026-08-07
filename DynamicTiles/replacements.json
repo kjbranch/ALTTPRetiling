@@ -1331,12 +1331,7 @@
             ]
           },
           "after_frames": [
-            {
-              "tiles": [
-                [ { "palette": 3, "tile": 471, "flip": 0 }, { "palette": 3, "tile": 471, "flip": 1 } ],
-                [ { "palette": 3, "tile": 471, "flip": 2 }, { "palette": 3, "tile": 471, "flip": 3 } ]
-              ]
-            }
+            { "tiles": [ [ { "palette": 3, "tile": 27, "flip": 0 }, { "palette": 3, "tile": 27, "flip": 1 } ], [ { "palette": 3, "tile": 27, "flip": 2 }, { "palette": 3, "tile": 27, "flip": 3 } ] ] }
           ]
         },
         {
@@ -1347,12 +1342,7 @@
             ]
           },
           "after_frames": [
-            {
-              "tiles": [
-                [ { "palette": 3, "tile": 471, "flip": 0 }, { "palette": 3, "tile": 471, "flip": 1 } ],
-                [ { "palette": 3, "tile": 471, "flip": 2 }, { "palette": 3, "tile": 471, "flip": 3 } ]
-              ]
-            }
+            { "tiles": [ [ { "palette": 3, "tile": 27, "flip": 0 }, { "palette": 3, "tile": 27, "flip": 1 } ], [ { "palette": 3, "tile": 27, "flip": 2 }, { "palette": 3, "tile": 27, "flip": 3 } ] ] }
           ]
         },
         {
@@ -1363,12 +1353,7 @@
             ]
           },
           "after_frames": [
-            {
-              "tiles": [
-                [ { "palette": 3, "tile": 471, "flip": 0 }, { "palette": 3, "tile": 471, "flip": 1 } ],
-                [ { "palette": 3, "tile": 471, "flip": 2 }, { "palette": 3, "tile": 471, "flip": 3 } ]
-              ]
-            }
+            { "tiles": [ [ { "palette": 3, "tile": 27, "flip": 0 }, { "palette": 3, "tile": 27, "flip": 1 } ], [ { "palette": 3, "tile": 27, "flip": 2 }, { "palette": 3, "tile": 27, "flip": 3 } ] ] }
           ]
         },
         {
@@ -1379,12 +1364,7 @@
             ]
           },
           "after_frames": [
-            {
-              "tiles": [
-                [ { "palette": 3, "tile": 471, "flip": 0 }, { "palette": 3, "tile": 471, "flip": 1 } ],
-                [ { "palette": 3, "tile": 471, "flip": 2 }, { "palette": 3, "tile": 471, "flip": 3 } ]
-              ]
-            }
+            { "tiles": [ [ { "palette": 3, "tile": 27, "flip": 0 }, { "palette": 3, "tile": 27, "flip": 1 } ], [ { "palette": 3, "tile": 27, "flip": 2 }, { "palette": 3, "tile": 27, "flip": 3 } ] ] }
           ]
         },
         {
@@ -1395,12 +1375,7 @@
             ]
           },
           "after_frames": [
-            {
-              "tiles": [
-                [ { "palette": 3, "tile": 471, "flip": 0 }, { "palette": 3, "tile": 471, "flip": 1 } ],
-                [ { "palette": 3, "tile": 471, "flip": 2 }, { "palette": 3, "tile": 471, "flip": 3 } ]
-              ]
-            }
+            { "tiles": [ [ { "palette": 3, "tile": 27, "flip": 0 }, { "palette": 3, "tile": 27, "flip": 1 } ], [ { "palette": 3, "tile": 27, "flip": 2 }, { "palette": 3, "tile": 27, "flip": 3 } ] ] }
           ]
         },
         {
@@ -1411,12 +1386,7 @@
             ]
           },
           "after_frames": [
-            {
-              "tiles": [
-                [ { "palette": 3, "tile": 471, "flip": 0 }, { "palette": 3, "tile": 471, "flip": 1 } ],
-                [ { "palette": 3, "tile": 471, "flip": 2 }, { "palette": 3, "tile": 471, "flip": 3 } ]
-              ]
-            }
+            { "tiles": [ [ { "palette": 3, "tile": 27, "flip": 0 }, { "palette": 3, "tile": 27, "flip": 1 } ], [ { "palette": 3, "tile": 27, "flip": 2 }, { "palette": 3, "tile": 27, "flip": 3 } ] ] }
           ]
         },
         {
@@ -1427,12 +1397,7 @@
             ]
           },
           "after_frames": [
-            {
-              "tiles": [
-                [ { "palette": 3, "tile": 471, "flip": 0 }, { "palette": 3, "tile": 471, "flip": 1 } ],
-                [ { "palette": 3, "tile": 471, "flip": 2 }, { "palette": 3, "tile": 471, "flip": 3 } ]
-              ]
-            }
+            { "tiles": [ [ { "palette": 3, "tile": 27, "flip": 0 }, { "palette": 3, "tile": 27, "flip": 1 } ], [ { "palette": 3, "tile": 27, "flip": 2 }, { "palette": 3, "tile": 27, "flip": 3 } ] ] }
           ]
         }
       ]
