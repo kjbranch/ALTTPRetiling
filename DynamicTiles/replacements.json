@@ -1722,6 +1722,22 @@
               ]
             }
           ]
+        },
+        {
+          "before": {
+            "tiles": [
+              [ { "palette": 76, "tile": 16, "flip": 0 }, { "palette": 76, "tile": 68, "flip": 0 }, { "palette": 76, "tile": 68, "flip": 1 }, { "palette": 76, "tile": 16, "flip": 1 } ],
+              [ { "palette": 76, "tile": 18, "flip": 0 }, { "palette": 76, "tile": 69, "flip": 0 }, { "palette": 76, "tile": 70, "flip": 0 }, { "palette": 76, "tile": 18, "flip": 1 } ]
+            ]
+          },
+          "after_frames": [
+            {
+              "tiles": [
+                [ { "palette": 76, "tile": 16, "flip": 0 }, { "palette": 76, "tile": 17, "flip": 0 }, { "palette": 76, "tile": 17, "flip": 0 }, { "palette": 76, "tile": 16, "flip": 1 } ],
+                [ { "palette": 76, "tile": 18, "flip": 0 }, { "palette": 76, "tile": 19, "flip": 0 }, { "palette": 76, "tile": 19, "flip": 0 }, { "palette": 76, "tile": 18, "flip": 1 } ]
+              ]
+            }
+          ]
         }
       ]
     },
