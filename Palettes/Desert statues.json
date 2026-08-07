@@ -22,7 +22,7 @@
     {
       "id": 0,
       "priority": false,
-      "collision": 0,
+      "collision": 66,
       "h_flippable": true,
       "v_flippable": false,
       "pixels": [
@@ -39,7 +39,7 @@
     {
       "id": 1,
       "priority": false,
-      "collision": 0,
+      "collision": 2,
       "h_flippable": true,
       "v_flippable": false,
       "pixels": [
@@ -56,7 +56,7 @@
     {
       "id": 2,
       "priority": false,
-      "collision": 0,
+      "collision": 2,
       "h_flippable": true,
       "v_flippable": false,
       "pixels": [
@@ -73,7 +73,7 @@
     {
       "id": 3,
       "priority": false,
-      "collision": 0,
+      "collision": 1,
       "h_flippable": true,
       "v_flippable": false,
       "pixels": [
@@ -90,7 +90,7 @@
     {
       "id": 4,
       "priority": false,
-      "collision": 0,
+      "collision": 2,
       "h_flippable": true,
       "v_flippable": false,
       "pixels": [
@@ -107,7 +107,7 @@
     {
       "id": 5,
       "priority": false,
-      "collision": 0,
+      "collision": 1,
       "h_flippable": true,
       "v_flippable": false,
       "pixels": [
@@ -124,7 +124,7 @@
     {
       "id": 6,
       "priority": false,
-      "collision": 0,
+      "collision": 2,
       "h_flippable": true,
       "v_flippable": false,
       "pixels": [
@@ -141,7 +141,7 @@
     {
       "id": 7,
       "priority": false,
-      "collision": 0,
+      "collision": 2,
       "h_flippable": true,
       "v_flippable": false,
       "pixels": [
