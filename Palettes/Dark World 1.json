@@ -4511,7 +4511,7 @@
       "id": 264,
       "priority": false,
       "collision": 27,
-      "h_flippable": false,
+      "h_flippable": true,
       "v_flippable": false,
       "pixels": [
         [ 1, 1, 1, 1, 1, 1, 1, 1 ],
