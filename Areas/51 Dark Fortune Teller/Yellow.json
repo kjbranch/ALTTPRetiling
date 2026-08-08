@@ -1,6 +1,11 @@
 {
   "vanilla_map_id": 81,
   "bg_color": [ 18, 17, 10 ],
+  "bg_layering": "none",
+  "bg_camera_follow_x": 1.0,
+  "bg_camera_drift_x": 0.0,
+  "bg_camera_follow_y": 1.0,
+  "bg_camera_drift_y": 0.0,
   "size": [ 2, 2 ],
   "layers": [
     {
