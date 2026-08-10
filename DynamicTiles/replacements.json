@@ -1393,8 +1393,8 @@
         {
           "before": {
             "tiles": [
-              [ { "palette": 34, "tile": 355, "flip": 1 }, { "palette": 34, "tile": 355, "flip": 0 }, { "palette": 34, "tile": 355, "flip": 1 }, { "palette": 34, "tile": 355, "flip": 0 } ],
-              [ { "palette": 34, "tile": 356, "flip": 1 }, { "palette": 34, "tile": 356, "flip": 0 }, { "palette": 34, "tile": 356, "flip": 1 }, { "palette": 34, "tile": 356, "flip": 0 } ]
+              [ { "palette": 34, "tile": 282, "flip": 1 }, { "palette": 34, "tile": 282, "flip": 0 }, { "palette": 34, "tile": 282, "flip": 1 }, { "palette": 34, "tile": 282, "flip": 0 } ],
+              [ { "palette": 34, "tile": 283, "flip": 1 }, { "palette": 34, "tile": 283, "flip": 0 }, { "palette": 34, "tile": 283, "flip": 1 }, { "palette": 34, "tile": 283, "flip": 0 } ]
             ]
           },
           "after_frames": [
