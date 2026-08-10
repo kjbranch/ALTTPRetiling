@@ -1400,8 +1400,8 @@
           "after_frames": [
             {
               "tiles": [
-                [ { "palette": 34, "tile": 704, "flip": 0 }, { "palette": 34, "tile": 280, "flip": 0 }, { "palette": 34, "tile": 280, "flip": 0 }, { "palette": 34, "tile": 704, "flip": 1 } ],
-                [ { "palette": 34, "tile": 705, "flip": 0 }, { "palette": 34, "tile": 281, "flip": 0 }, { "palette": 34, "tile": 281, "flip": 1 }, { "palette": 34, "tile": 705, "flip": 1 } ]
+                [ { "palette": 34, "tile": 592, "flip": 0 }, { "palette": 34, "tile": 280, "flip": 0 }, { "palette": 34, "tile": 280, "flip": 0 }, { "palette": 34, "tile": 592, "flip": 1 } ],
+                [ { "palette": 34, "tile": 593, "flip": 0 }, { "palette": 34, "tile": 281, "flip": 0 }, { "palette": 34, "tile": 281, "flip": 1 }, { "palette": 34, "tile": 593, "flip": 1 } ]
               ]
             }
           ]
