@@ -1722,7 +1722,7 @@
     {
       "id": 100,
       "priority": false,
-      "collision": 0,
+      "collision": 1,
       "h_flippable": true,
       "v_flippable": false,
       "pixels": [
@@ -1739,7 +1739,7 @@
     {
       "id": 101,
       "priority": false,
-      "collision": 0,
+      "collision": 1,
       "h_flippable": true,
       "v_flippable": false,
       "pixels": [
