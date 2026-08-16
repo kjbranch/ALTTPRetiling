@@ -4,7 +4,7 @@
       "actions": [
         { "action": "wait", "frames": 16 },
         { "action": "play_sound", "channel": 1, "sound": 7 },
-        { "action": "start_shake", "offsets": [ [ -1, 1 ], [ 1, -1 ] ] },
+        { "action": "start_shake" },
         { "action": "wait", "frames": 56 },
         { "action": "set_complete" },
         { "action": "play_sound", "channel": 2, "sound": 12 },

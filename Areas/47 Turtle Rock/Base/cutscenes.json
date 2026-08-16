@@ -6,17 +6,7 @@
           "action": "set_complete"
         },
         {
-          "action": "start_shake",
-          "offsets": [
-            [
-              -1,
-              1
-            ],
-            [
-              1,
-              -1
-            ]
-          ]
+          "action": "start_shake"
         },
         {
           "action": "play_sound",
