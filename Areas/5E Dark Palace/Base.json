@@ -1709,6 +1709,79 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Cutscene phase 1",
+      "background": "bg2",
+      "screens": [
+        {
+          "position": [ 102, 6 ],
+          "size": [ 6, 6 ],
+          "palettes": [
+            [ 64, 64, null, null, null, null ],
+            [ 64, 64, null, null, null, null ],
+            [ null, null, null, null, 9, 9 ],
+            [ null, null, null, null, 64, 64 ],
+            [ null, null, null, null, 64, 64 ],
+            [ null, null, null, null, 64, 64 ]
+          ],
+          "tiles": [
+            [ 28, 28, null, null, null, null ],
+            [ 29, 29, null, null, null, null ],
+            [ null, null, null, null, 320, 320 ],
+            [ null, null, null, null, 48, 48 ],
+            [ null, null, null, null, 33, 33 ],
+            [ null, null, null, null, 34, 34 ]
+          ],
+          "flips": [
+            [ 0, 1, null, null, null, null ],
+            [ 0, 1, null, null, null, null ],
+            [ null, null, null, null, 0, 0 ],
+            [ null, null, null, null, 0, 1 ],
+            [ null, null, null, null, 0, 1 ],
+            [ null, null, null, null, 0, 1 ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cutscene phase 2",
+      "background": "bg2",
+      "screens": [
+        {
+          "position": [ 106, 8 ],
+          "size": [ 2, 4 ],
+          "palettes": [ [ 9, 9 ], [ 64, 64 ], [ 64, 64 ], [ 64, 64 ] ],
+          "tiles": [ [ 320, 320 ], [ 49, 49 ], [ 50, 50 ], [ 34, 34 ] ],
+          "flips": [ [ 0, 0 ], [ 0, 1 ], [ 0, 1 ], [ 0, 1 ] ]
+        }
+      ]
+    },
+    {
+      "name": "Cutscene phase 3",
+      "background": "bg2",
+      "screens": [
+        {
+          "position": [ 106, 8 ],
+          "size": [ 2, 6 ],
+          "palettes": [ [ 9, 9 ], [ 64, 64 ], [ 64, 64 ], [ 64, 64 ], [ 64, 64 ], [ 64, 64 ] ],
+          "tiles": [ [ 320, 320 ], [ 51, 51 ], [ 52, 52 ], [ 53, 53 ], [ 42, 42 ], [ 43, 40 ] ],
+          "flips": [ [ 0, 0 ], [ 0, 1 ], [ 0, 1 ], [ 0, 1 ], [ 0, 1 ], [ 0, 0 ] ]
+        }
+      ]
+    },
+    {
+      "name": "Cutscene open",
+      "background": "bg2",
+      "screens": [
+        {
+          "position": [ 106, 8 ],
+          "size": [ 2, 6 ],
+          "palettes": [ [ 64, 64 ], [ 64, 64 ], [ 64, 64 ], [ 64, 64 ], [ 64, 64 ], [ 64, 64 ] ],
+          "tiles": [ [ 54, 54 ], [ 55, 55 ], [ 55, 55 ], [ 55, 46 ], [ 55, 46 ], [ 43, 40 ] ],
+          "flips": [ [ 0, 1 ], [ 0, 1 ], [ 0, 1 ], [ 0, 1 ], [ 0, 1 ], [ 0, 0 ] ]
+        }
+      ]
     }
   ]
 }

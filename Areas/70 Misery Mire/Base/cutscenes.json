@@ -1,0 +1,30 @@
+{
+  "cutscenes": [
+    {
+      "actions": [
+        { "action": "wait", "frames": 16 },
+        { "action": "play_sound", "channel": 1, "sound": 7 },
+        { "action": "start_shake", "offsets": [ [ -1, 1 ], [ 1, -1 ] ] },
+        { "action": "wait", "frames": 56 },
+        { "action": "set_complete" },
+        { "action": "play_sound", "channel": 2, "sound": 12 },
+        { "action": "play_sound", "channel": 3, "sound": 7 },
+        { "action": "draw", "layer": "Cutscene phase 1" },
+        { "action": "wait", "frames": 72 },
+        { "action": "play_sound", "channel": 2, "sound": 12 },
+        { "action": "play_sound", "channel": 3, "sound": 7 },
+        { "action": "draw", "layer": "Cutscene phase 2" },
+        { "action": "wait", "frames": 80 },
+        { "action": "play_sound", "channel": 2, "sound": 12 },
+        { "action": "play_sound", "channel": 3, "sound": 7 },
+        { "action": "draw", "layer": "Cutscene open" },
+        { "action": "wait", "frames": 128 },
+        { "action": "play_sound", "channel": 1, "sound": 5 },
+        { "action": "play_sound", "channel": 3, "sound": 27 },
+        { "action": "stop_shake" },
+        { "action": "end" }
+      ],
+      "event": "misery_mire_entrance_opened"
+    }
+  ]
+}
