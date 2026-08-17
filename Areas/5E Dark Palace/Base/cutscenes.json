@@ -1,0 +1,29 @@
+{
+  "cutscenes": [
+    {
+      "actions": [
+        { "action": "wait", "frames": 64 },
+        { "action": "set_complete" },
+        { "action": "play_sound", "channel": 2, "sound": 12 },
+        { "action": "play_sound", "channel": 3, "sound": 7 },
+        { "action": "draw", "layer": "Cutscene phase 1" },
+        { "action": "wait", "frames": 32 },
+        { "action": "play_sound", "channel": 2, "sound": 12 },
+        { "action": "play_sound", "channel": 3, "sound": 7 },
+        { "action": "draw", "layer": "Cutscene phase 2" },
+        { "action": "wait", "frames": 32 },
+        { "action": "play_sound", "channel": 2, "sound": 12 },
+        { "action": "play_sound", "channel": 3, "sound": 7 },
+        { "action": "draw", "layer": "Cutscene phase 3" },
+        { "action": "wait", "frames": 32 },
+        { "action": "play_sound", "channel": 2, "sound": 12 },
+        { "action": "play_sound", "channel": 3, "sound": 7 },
+        { "action": "draw", "layer": "Cutscene open" },
+        { "action": "wait", "frames": 32 },
+        { "action": "play_sound", "channel": 3, "sound": 27 },
+        { "action": "end" }
+      ],
+      "event": "palace_of_darkness_entrance_opened"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "cutscenes": [
+    {
+      "actions": [
+        {
+          "action": "set_complete"
+        },
+        {
+          "action": "start_shake"
+        },
+        {
+          "action": "play_sound",
+          "channel": 3,
+          "sound": 2
+        },
+        {
+          "action": "wait",
+          "frames": 16
+        },
+        {
+          "action": "draw",
+          "layer": "Cutscene open"
+        },
+        {
+          "action": "play_sound",
+          "channel": 3,
+          "sound": 2
+        },
+        {
+          "action": "wait",
+          "frames": 16
+        },
+        {
+          "action": "play_sound",
+          "channel": 1,
+          "sound": 5
+        },
+        {
+          "action": "play_sound",
+          "channel": 3,
+          "sound": 27
+        },
+        {
+          "action": "stop_shake"
+        },
+        {
+          "action": "end"
+        }
+      ],
+      "event": "turtle_rock_entrance_opened"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "cutscenes": [
+    {
+      "actions": [
+        { "action": "set_complete" },
+        { "action": "play_sound", "channel": 1, "sound": 7 },
+        { "action": "wait", "frames": 48 },
+        { "action": "play_sound", "channel": 2, "sound": 12 },
+        { "action": "play_sound", "channel": 3, "sound": 7 },
+        { "action": "draw", "layer": "Cutscene phase 1" },
+        { "action": "wait", "frames": 48 },
+        { "action": "play_sound", "channel": 2, "sound": 12 },
+        { "action": "play_sound", "channel": 3, "sound": 7 },
+        { "action": "draw", "layer": "Cutscene phase 2" },
+        { "action": "wait", "frames": 52 },
+        { "action": "play_sound", "channel": 2, "sound": 12 },
+        { "action": "play_sound", "channel": 3, "sound": 7 },
+        { "action": "draw", "layer": "Cutscene phase 3" },
+        { "action": "wait", "frames": 32 },
+        { "action": "play_sound", "channel": 2, "sound": 12 },
+        { "action": "play_sound", "channel": 3, "sound": 7 },
+        { "action": "draw", "layer": "Cutscene phase 4" },
+        { "action": "wait", "frames": 32 },
+        { "action": "play_sound", "channel": 2, "sound": 12 },
+        { "action": "play_sound", "channel": 3, "sound": 7 },
+        { "action": "draw", "layer": "Cutscene phase 5" },
+        { "action": "wait", "frames": 32 },
+        { "action": "play_sound", "channel": 2, "sound": 12 },
+        { "action": "play_sound", "channel": 3, "sound": 7 },
+        { "action": "draw", "layer": "Cutscene phase 6" },
+        { "action": "wait", "frames": 32 },
+        { "action": "play_sound", "channel": 2, "sound": 12 },
+        { "action": "play_sound", "channel": 3, "sound": 7 },
+        { "action": "draw", "layer": "Cutscene phase 7" },
+        { "action": "wait", "frames": 32 },
+        { "action": "play_sound", "channel": 2, "sound": 12 },
+        { "action": "play_sound", "channel": 3, "sound": 7 },
+        { "action": "draw", "layer": "Cutscene phase 8" },
+        { "action": "wait", "frames": 32 },
+        { "action": "play_sound", "channel": 1, "sound": 5 },
+        { "action": "play_sound", "channel": 2, "sound": 12 },
+        { "action": "play_sound", "channel": 3, "sound": 7 },
+        { "action": "draw", "layer": "Cutscene open" },
+        { "action": "wait", "frames": 72 },
+        { "action": "play_sound", "channel": 3, "sound": 27 },
+        { "action": "play_music", "song": 13 },
+        { "action": "play_sound", "channel": 1, "sound": 9 },
+        { "action": "end" }
+      ],
+      "event": "ganons_tower_entrance_opened"
+    }
+  ]
+}

@@ -3411,6 +3411,113 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Cutscene phase 1",
+      "background": "bg2",
+      "screens": [
+        {
+          "position": [ 18, 32 ],
+          "size": [ 4, 2 ],
+          "palettes": [ [ 67, 67, 67, 67 ], [ 67, 67, 67, 67 ] ],
+          "tiles": [ [ 50, 50, 50, 50 ], [ 50, 50, 50, 50 ] ],
+          "flips": [ [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ] ]
+        }
+      ]
+    },
+    {
+      "name": "Cutscene phase 2",
+      "background": "bg2",
+      "screens": [
+        {
+          "position": [ 16, 30 ],
+          "size": [ 8, 2 ],
+          "palettes": [ [ 67, 67, 67, 67, 67, 67, 67, 67 ], [ 67, 66, 66, 67, 67, 66, 66, 67 ] ],
+          "tiles": [ [ 50, 50, 50, 50, 50, 50, 50, 50 ], [ 50, 80, 81, 50, 50, 81, 80, 50 ] ],
+          "flips": [ [ 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 1, 1, 0 ] ]
+        }
+      ]
+    },
+    {
+      "name": "Cutscene phase 3",
+      "background": "bg2",
+      "screens": [
+        {
+          "position": [ 16, 28 ],
+          "size": [ 8, 2 ],
+          "palettes": [ [ 67, 67, 67, 67, 67, 67, 67, 67 ], [ 67, 66, 66, 67, 67, 66, 66, 67 ] ],
+          "tiles": [ [ 50, 50, 50, 50, 50, 50, 50, 50 ], [ 50, 80, 81, 50, 50, 81, 80, 50 ] ],
+          "flips": [ [ 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 1, 1, 0 ] ]
+        }
+      ]
+    },
+    {
+      "name": "Cutscene phase 4",
+      "background": "bg2",
+      "screens": [
+        {
+          "position": [ 16, 22 ],
+          "size": [ 8, 6 ],
+          "palettes": [
+            [ 66, 66, null, null, null, null, 66, 66 ],
+            [ 66, 66, null, null, null, null, 66, 66 ],
+            [ 66, 66, 66, 66, 66, 66, 66, 66 ],
+            [ 66, 66, 66, 66, 66, 66, 66, 66 ],
+            [ null, null, 66, 66, 66, 66, null, null ],
+            [ null, null, 66, 66, 66, 66, null, null ]
+          ],
+          "tiles": [
+            [ 18, 19, null, null, null, null, 19, 18 ],
+            [ 82, 83, null, null, null, null, 83, 82 ],
+            [ 84, 85, 30, 31, 31, 30, 85, 84 ],
+            [ 28, 29, 31, 86, 86, 31, 29, 28 ],
+            [ null, null, 34, 87, 87, 34, null, null ],
+            [ null, null, 36, 88, 88, 36, null, null ]
+          ],
+          "flips": [
+            [ 0, 0, null, null, null, null, 1, 1 ],
+            [ 0, 0, null, null, null, null, 1, 1 ],
+            [ 0, 0, 0, 0, 1, 1, 1, 1 ],
+            [ 0, 0, 0, 0, 0, 1, 1, 1 ],
+            [ null, null, 0, 0, 1, 1, null, null ],
+            [ null, null, 0, 0, 1, 1, null, null ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cutscene open",
+      "background": "bg2",
+      "screens": [
+        {
+          "position": [ 16, 22 ],
+          "size": [ 8, 6 ],
+          "palettes": [
+            [ 66, 66, null, null, null, null, 66, 66 ],
+            [ 66, 66, null, null, null, null, 66, 66 ],
+            [ 66, 66, 66, 66, 66, 66, 66, 66 ],
+            [ 66, 66, 66, 66, 66, 66, 66, 66 ],
+            [ null, null, 66, 66, 66, 66, null, null ],
+            [ null, null, 66, 66, 66, 66, null, null ]
+          ],
+          "tiles": [
+            [ 18, 19, null, null, null, null, 19, 18 ],
+            [ 89, 90, null, null, null, null, 90, 89 ],
+            [ 91, 92, 30, 93, 93, 30, 92, 91 ],
+            [ 28, 29, 93, 86, 86, 93, 29, 28 ],
+            [ null, null, 34, 87, 87, 34, null, null ],
+            [ null, null, 36, 88, 88, 36, null, null ]
+          ],
+          "flips": [
+            [ 0, 0, null, null, null, null, 1, 1 ],
+            [ 0, 0, null, null, null, null, 1, 1 ],
+            [ 0, 0, 0, 0, 1, 1, 1, 1 ],
+            [ 0, 0, 0, 0, 0, 1, 1, 1 ],
+            [ null, null, 0, 0, 1, 1, null, null ],
+            [ null, null, 0, 0, 1, 1, null, null ]
+          ]
+        }
+      ]
     }
   ]
 }
