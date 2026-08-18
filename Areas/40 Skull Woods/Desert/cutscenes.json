@@ -1,0 +1,27 @@
+{
+  "cutscenes": [
+    {
+      "actions": [
+        { "action": "wait", "frames": 4 },
+        { "action": "set_complete" },
+        { "action": "draw", "layer": "Cutscene phase 1" },
+        { "action": "play_sound", "channel": 3, "sound": 22 },
+        { "action": "wait", "frames": 12 },
+        { "action": "draw", "layer": "Cutscene phase 2" },
+        { "action": "play_sound", "channel": 3, "sound": 22 },
+        { "action": "wait", "frames": 12 },
+        { "action": "draw", "layer": "Cutscene phase 3" },
+        { "action": "play_sound", "channel": 3, "sound": 22 },
+        { "action": "wait", "frames": 12 },
+        { "action": "draw", "layer": "Cutscene phase 4" },
+        { "action": "play_sound", "channel": 3, "sound": 22 },
+        { "action": "wait", "frames": 12 },
+        { "action": "draw", "layer": "Cutscene open" },
+        { "action": "play_sound", "channel": 3, "sound": 22 },
+        { "action": "play_sound", "channel": 3, "sound": 27 },
+        { "action": "end" }
+      ],
+      "event": "skull_woods_entrance_opened"
+    }
+  ]
+}
