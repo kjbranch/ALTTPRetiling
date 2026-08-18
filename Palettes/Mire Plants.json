@@ -1874,7 +1874,7 @@
     },
     {
       "id": 109,
-      "priority": false,
+      "priority": true,
       "collision": 1,
       "h_flippable": true,
       "v_flippable": false,

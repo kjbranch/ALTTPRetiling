@@ -450,6 +450,22 @@
               ]
             }
           ]
+        },
+        {
+          "before": {
+            "tiles": [
+              [ { "palette": 3, "tile": 498, "flip": 0 }, { "palette": 3, "tile": 498, "flip": 3 } ],
+              [ { "palette": 3, "tile": 498, "flip": 3 }, { "palette": 3, "tile": 498, "flip": 0 } ]
+            ]
+          },
+          "after_frames": [
+            {
+              "tiles": [
+                [ { "palette": 3, "tile": 499, "flip": 0 }, { "palette": 3, "tile": 499, "flip": 1 } ],
+                [ { "palette": 3, "tile": 499, "flip": 2 }, { "palette": 3, "tile": 499, "flip": 3 } ]
+              ]
+            }
+          ]
         }
       ]
     },
@@ -1286,8 +1302,8 @@
           "after_frames": [
             {
               "tiles": [
-                [ { "palette": 63, "tile": 32, "flip": 0 }, { "palette": 63, "tile": 32, "flip": 1 } ],
-                [ { "palette": 63, "tile": 33, "flip": 0 }, { "palette": 63, "tile": 33, "flip": 1 } ]
+                [ { "palette": 8, "tile": 576, "flip": 0 }, { "palette": 8, "tile": 576, "flip": 1 } ],
+                [ { "palette": 8, "tile": 577, "flip": 0 }, { "palette": 8, "tile": 577, "flip": 1 } ]
               ]
             }
           ]
@@ -1302,8 +1318,24 @@
           "after_frames": [
             {
               "tiles": [
-                [ { "palette": 63, "tile": 32, "flip": 0 }, { "palette": 63, "tile": 32, "flip": 1 } ],
-                [ { "palette": 63, "tile": 33, "flip": 0 }, { "palette": 63, "tile": 33, "flip": 1 } ]
+                [ { "palette": 3, "tile": 496, "flip": 0 }, { "palette": 3, "tile": 496, "flip": 1 } ],
+                [ { "palette": 3, "tile": 497, "flip": 0 }, { "palette": 3, "tile": 497, "flip": 1 } ]
+              ]
+            }
+          ]
+        },
+        {
+          "before": {
+            "tiles": [
+              [ { "palette": 8, "tile": 256, "flip": 0 }, { "palette": 8, "tile": 256, "flip": 1 } ],
+              [ { "palette": 8, "tile": 257, "flip": 0 }, { "palette": 8, "tile": 257, "flip": 1 } ]
+            ]
+          },
+          "after_frames": [
+            {
+              "tiles": [
+                [ { "palette": 8, "tile": 578, "flip": 0 }, { "palette": 8, "tile": 578, "flip": 1 } ],
+                [ { "palette": 8, "tile": 579, "flip": 0 }, { "palette": 8, "tile": 579, "flip": 1 } ]
               ]
             }
           ]
