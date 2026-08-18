@@ -1291,6 +1291,22 @@
               ]
             }
           ]
+        },
+        {
+          "before": {
+            "tiles": [
+              [ { "palette": 3, "tile": 256, "flip": 0 }, { "palette": 3, "tile": 256, "flip": 1 } ],
+              [ { "palette": 3, "tile": 257, "flip": 0 }, { "palette": 3, "tile": 257, "flip": 1 } ]
+            ]
+          },
+          "after_frames": [
+            {
+              "tiles": [
+                [ { "palette": 63, "tile": 32, "flip": 0 }, { "palette": 63, "tile": 32, "flip": 1 } ],
+                [ { "palette": 63, "tile": 33, "flip": 0 }, { "palette": 63, "tile": 33, "flip": 1 } ]
+              ]
+            }
+          ]
         }
       ]
     },
