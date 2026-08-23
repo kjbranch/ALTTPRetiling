@@ -5736,7 +5736,7 @@
       "priority": false,
       "collision": 0,
       "h_flippable": true,
-      "v_flippable": false,
+      "v_flippable": true,
       "pixels": [
         [ 0, 0, 0, 0, 0, 0, 0, 0 ],
         [ 0, 0, 10, 10, 10, 10, 10, 0 ],
@@ -5753,7 +5753,7 @@
       "priority": false,
       "collision": 0,
       "h_flippable": true,
-      "v_flippable": false,
+      "v_flippable": true,
       "pixels": [
         [ 0, 0, 10, 10, 8, 8, 8, 8 ],
         [ 0, 10, 10, 10, 8, 8, 8, 8 ],
@@ -10136,19 +10136,19 @@
     },
     {
       "id": 595,
-      "priority": false,
+      "priority": true,
       "collision": 0,
-      "h_flippable": false,
+      "h_flippable": true,
       "v_flippable": false,
       "pixels": [
         [ 0, 0, 0, 0, 0, 0, 0, 0 ],
         [ 0, 0, 0, 0, 0, 0, 0, 0 ],
-        [ 0, 0, 0, 0, 0, 0, 0, 0 ],
-        [ 0, 0, 0, 0, 0, 0, 0, 0 ],
-        [ 0, 0, 0, 0, 0, 0, 0, 0 ],
-        [ 0, 0, 0, 0, 0, 0, 0, 0 ],
-        [ 0, 0, 0, 0, 0, 0, 0, 0 ],
-        [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+        [ 0, 0, 0, 0, 0, 0, 0, 1 ],
+        [ 0, 0, 0, 0, 0, 0, 1, 11 ],
+        [ 0, 0, 0, 0, 0, 1, 11, 8 ],
+        [ 0, 0, 0, 0, 0, 1, 11, 8 ],
+        [ 0, 0, 0, 0, 0, 1, 8, 11 ],
+        [ 0, 0, 0, 0, 0, 0, 1, 8 ]
       ]
     },
     {
