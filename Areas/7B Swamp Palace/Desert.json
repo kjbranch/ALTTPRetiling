@@ -437,6 +437,86 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Drained",
+      "background": "bg2",
+      "screens": [
+        {
+          "position": [ 36, 18 ],
+          "size": [ 24, 14 ],
+          "palettes": [
+            [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 8, 8, 8, 8, null, null ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 8, 8, 8, 8, 8, 8, null ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 8, 8, 8, 8, 8, 8, null ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 8, 8, 8, 8, 8, 8, null ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 8, 8, 8, 8, 8, 8, null ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 8, 8, 8, 8, null, null ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ],
+            [ null, null, null, null, null, null, null, null, 8, null, null, null, null, null, null, 8, null, null, null, null, null, null, null, null ],
+            [ null, 8, 8, 8, 8, null, null, 8, 8, null, null, null, null, null, null, 8, null, null, null, null, null, null, null, null ],
+            [ 8, 8, 8, 8, 8, 8, 8, 8, 8, null, null, null, null, null, null, 8, null, null, null, null, null, null, null, null ],
+            [ 8, 8, 8, 8, 8, 8, 8, 8, 8, null, null, null, null, null, null, 8, null, null, null, null, null, null, null, null ],
+            [ 8, 8, 8, 8, 8, 8, 8, 8, 8, null, null, null, null, null, null, 8, null, null, null, null, null, null, null, null ],
+            [ 8, 8, 8, 8, 8, 8, 8, 8, 8, null, null, null, null, null, null, 8, 8, 8, 8, 8, 8, 8, 8, null ],
+            [ null, 8, 8, 8, 8, 8, 8, 8, 8, null, null, null, null, null, null, 8, 8, 8, 8, 8, 8, 8, 8, 8 ]
+          ],
+          "tiles": [
+            [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 359, 359, 359, 359, null, null ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 359, 359, 359, 359, 359, 359, null ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 359, 359, 13, 359, 359, 359, null ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 359, 10, 359, 359, 359, 359, null ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 359, 359, 359, 359, 10, 359, null ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 359, 359, 10, 359, null, null ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ],
+            [ null, null, null, null, null, null, null, null, 359, null, null, null, null, null, null, 359, null, null, null, null, null, null, null, null ],
+            [ null, 359, 359, 359, 359, null, null, 359, 359, null, null, null, null, null, null, 359, null, null, null, null, null, null, null, null ],
+            [ 359, 359, 359, 359, 359, 359, 359, 359, 359, null, null, null, null, null, null, 359, null, null, null, null, null, null, null, null ],
+            [ 359, 359, 359, 359, 359, 359, 359, 13, 359, null, null, null, null, null, null, 359, null, null, null, null, null, null, null, null ],
+            [ 359, 359, 359, 359, 359, 359, 10, 359, 359, null, null, null, null, null, null, 359, null, null, null, null, null, null, null, null ],
+            [ 359, 359, 359, 359, 359, 359, 359, 359, 359, null, null, null, null, null, null, 359, 359, 359, 359, 10, 359, 359, 359, null ],
+            [ null, 359, 359, 359, 359, 359, 359, 359, 359, null, null, null, null, null, null, 359, 359, 359, 10, 359, 359, 359, 359, 359 ]
+          ],
+          "flips": [
+            [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 0, 0, 0, 0, null, null ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 0, 0, 0, 0, 0, 0, null ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 0, 0, 0, 0, 0, 0, null ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 0, 0, 0, 0, 0, 0, null ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 0, 0, 0, 0, 0, 0, null ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 0, 0, 0, 0, null, null ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ],
+            [ null, null, null, null, null, null, null, null, 0, null, null, null, null, null, null, 0, null, null, null, null, null, null, null, null ],
+            [ null, 0, 0, 0, 0, null, null, 0, 0, null, null, null, null, null, null, 0, null, null, null, null, null, null, null, null ],
+            [ 0, 0, 0, 0, 0, 0, 0, 0, 0, null, null, null, null, null, null, 0, null, null, null, null, null, null, null, null ],
+            [ 0, 0, 0, 0, 0, 0, 0, 0, 0, null, null, null, null, null, null, 0, null, null, null, null, null, null, null, null ],
+            [ 0, 0, 0, 0, 0, 0, 0, 0, 0, null, null, null, null, null, null, 0, null, null, null, null, null, null, null, null ],
+            [ 0, 0, 0, 0, 0, 0, 0, 0, 0, null, null, null, null, null, null, 0, 0, 0, 0, 0, 0, 0, 0, null ],
+            [ null, 0, 0, 0, 0, 0, 0, 0, 0, null, null, null, null, null, null, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+          ]
+        },
+        {
+          "position": [ 40, 32 ],
+          "size": [ 20, 4 ],
+          "palettes": [
+            [ 8, 8, 8, 8, 8, null, null, null, null, null, null, 8, 8, 8, 8, 8, 8, 8, 8, 8 ],
+            [ null, 8, 8, 8, 8, null, null, null, null, null, null, 8, 8, 8, 8, 8, 8, 8, 8, 8 ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, 8, 8, 8, 8, 8, 8, 8, 8 ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, null, 8, 8, 8, 8, 8, 8, null ]
+          ],
+          "tiles": [
+            [ 359, 359, 359, 359, 359, null, null, null, null, null, null, 359, 359, 13, 359, 359, 359, 359, 359, 359 ],
+            [ null, 359, 359, 359, 359, null, null, null, null, null, null, 359, 10, 359, 359, 359, 359, 359, 359, 359 ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, 359, 359, 359, 359, 359, 359, 359, 359 ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, null, 359, 359, 359, 359, 359, 359, null ]
+          ],
+          "flips": [
+            [ 0, 0, 0, 0, 0, null, null, null, null, null, null, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+            [ null, 0, 0, 0, 0, null, null, null, null, null, null, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, 0, 0, 0, 0, 0, 0, 0, 0 ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, null, 0, 0, 0, 0, 0, 0, null ]
+          ]
+        }
+      ]
     }
   ]
 }
