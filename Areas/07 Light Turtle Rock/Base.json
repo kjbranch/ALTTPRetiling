@@ -867,6 +867,28 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Turtle Rock Portal",
+      "background": "bg2",
+      "screens": [
+        {
+          "position": [ 32, 28 ],
+          "size": [ 2, 2 ],
+          "palettes": [
+            [ 88, 88 ],
+            [ 88, 88 ]
+          ],
+          "tiles": [
+            [ 0, 0 ],
+            [ 0, 0 ]
+          ],
+          "flips": [
+            [ 0, 1 ],
+            [ 2, 3 ]
+          ]
+        }
+      ]
     }
   ]
 }
