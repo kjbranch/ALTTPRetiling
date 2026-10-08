@@ -1,4 +1,5 @@
 {
+  "other_world_area": "00 Lost Woods",
   "vanilla_map_id": 64,
   "bg_color": [ 18, 17, 10 ],
   "bg_layering": "half_add",
