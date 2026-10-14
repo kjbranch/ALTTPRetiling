@@ -1653,7 +1653,7 @@
       ]
     },
     {
-      "name": "West 1 Lake (Requires West 1)",
+      "name": "West 1 Small Lake (Requires West 1)",
       "background": "bg2",
       "screens": [
         {
@@ -1739,7 +1739,7 @@
       ]
     },
     {
-      "name": "West 1 Lake (Requires West 1) B",
+      "name": "West 1 Large Lake (Requires West 1)",
       "background": "bg2",
       "screens": [
         {
