@@ -535,6 +535,7 @@
     },
     {
       "name": "North 2",
+      "condition": "n:dual",
       "background": "bg2",
       "screens": [
         {
@@ -597,6 +598,7 @@
     },
     {
       "name": "South 4",
+      "condition": "s:s2",
       "background": "bg2",
       "screens": [
         {
@@ -649,6 +651,7 @@
     },
     {
       "name": "West 3",
+      "condition": "w:s1",
       "background": "bg2",
       "screens": [
         {

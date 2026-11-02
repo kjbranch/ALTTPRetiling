@@ -1965,6 +1965,7 @@
     },
     {
       "name": "East 3 to 0",
+      "condition": "!e:s1",
       "background": "bg2",
       "screens": [
         {
@@ -2029,6 +2030,7 @@
     },
     {
       "name": "East 4 to 0",
+      "condition": "!e:s2",
       "background": "bg2",
       "screens": [
         {
@@ -2081,6 +2083,7 @@
     },
     {
       "name": "South 2",
+      "condition": "s:dual",
       "background": "bg2",
       "screens": [
         {
@@ -2149,6 +2152,7 @@
     },
     {
       "name": "West 3 to 0",
+      "condition": "!w:s1",
       "background": "bg2",
       "screens": [
         {
@@ -2207,6 +2211,7 @@
     },
     {
       "name": "West 4 to 0",
+      "condition": "!w:s2",
       "background": "bg2",
       "screens": [
         {

@@ -489,6 +489,7 @@
     },
     {
       "name": "East 4",
+      "condition": "e:s2",
       "background": "bg2",
       "screens": [
         { "position": [ 58, 30 ], "size": [ 2, 2 ], "palettes": [ [ 8, 8 ], [ 8, 8 ] ], "tiles": [ [ 213, 213 ], [ 213, 233 ] ], "flips": [ [ 3, 3 ], [ 3, 0 ] ] },
@@ -602,6 +603,7 @@
     },
     {
       "name": "South 3 to 0",
+      "condition": "s:c",
       "background": "bg2",
       "screens": [
         {
@@ -642,6 +644,7 @@
     },
     {
       "name": "East 4 and South 3 to 0",
+      "condition": "e:s2 & s:c",
       "background": "bg2",
       "screens": [
         {

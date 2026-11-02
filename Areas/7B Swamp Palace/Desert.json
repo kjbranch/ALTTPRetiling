@@ -442,6 +442,7 @@
     },
     {
       "name": "Drained",
+      "condition": "",
       "background": "bg2",
       "screens": [
         {
@@ -845,6 +846,7 @@
     },
     {
       "name": "North 3",
+      "condition": "n:s1",
       "background": "bg2",
       "screens": [
         {
@@ -907,6 +909,7 @@
     },
     {
       "name": "South 3",
+      "condition": "s:s1",
       "background": "bg2",
       "screens": [
         {
@@ -993,6 +996,7 @@
     },
     {
       "name": "South 4",
+      "condition": "s:s2",
       "background": "bg2",
       "screens": [
         {
@@ -1091,6 +1095,7 @@
     },
     {
       "name": "West 1",
+      "condition": "w:w | w:lake",
       "background": "bg2",
       "screens": [
         {
@@ -1201,6 +1206,7 @@
     },
     {
       "name": "West 3 to 0",
+      "condition": "!w:s1",
       "background": "bg2",
       "screens": [
         {
@@ -1308,6 +1314,7 @@
     },
     {
       "name": "South 3 and South 4",
+      "condition": "s:dual",
       "background": "bg2",
       "screens": [
         {
@@ -1361,6 +1368,7 @@
     },
     {
       "name": "West 1 Lake (Requires West 1)",
+      "condition": "w:lake",
       "background": "bg2",
       "screens": [
         {

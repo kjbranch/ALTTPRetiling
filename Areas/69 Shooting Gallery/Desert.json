@@ -584,7 +584,37 @@
       ]
     },
     {
+      "name": "North 0",
+      "condition": "n:c",
+      "background": "bg2",
+      "screens": [
+        {
+          "position": [ 42, 0 ],
+          "size": [ 14, 4 ],
+          "palettes": [
+            [ 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8 ],
+            [ 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8 ],
+            [ null, null, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, null, null ],
+            [ null, null, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, null, null ]
+          ],
+          "tiles": [
+            [ 53, 53, 83, 119, 70, 71, 70, 71, 70, 71, 82, 83, 53, 53 ],
+            [ 53, 83, 119, 77, 72, 73, 72, 73, 72, 73, 77, 82, 83, 53 ],
+            [ null, null, 67, 66, 74, 75, 74, 75, 74, 75, 66, 67, null, null ],
+            [ null, null, 69, 68, 245, 246, 245, 246, 245, 246, 68, 69, null, null ]
+          ],
+          "flips": [
+            [ 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+            [ 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3 ],
+            [ null, null, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, null, null ],
+            [ null, null, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, null, null ]
+          ]
+        }
+      ]
+    },
+    {
       "name": "North 1",
+      "condition": "n:w",
       "background": "bg2",
       "screens": [
         {
@@ -689,6 +719,7 @@
     },
     {
       "name": "East 3",
+      "condition": "e:s1",
       "background": "bg2",
       "screens": [
         {
@@ -802,6 +833,7 @@
     },
     {
       "name": "East 4 to 0",
+      "condition": "!e:s2",
       "background": "bg2",
       "screens": [
         {
@@ -884,6 +916,7 @@
     },
     {
       "name": "South 3",
+      "condition": "s:s1",
       "background": "bg2",
       "screens": [
         {
@@ -970,6 +1003,7 @@
     },
     {
       "name": "South 4",
+      "condition": "s:s2",
       "background": "bg2",
       "screens": [
         {
@@ -1062,6 +1096,7 @@
     },
     {
       "name": "East 4 to 0 and South 4",
+      "condition": "!e:s2 & s:s2",
       "background": "bg2",
       "screens": [
         {
@@ -1108,6 +1143,7 @@
     },
     {
       "name": "South 3 and South 4",
+      "condition": "s:dual",
       "background": "bg2",
       "screens": [
         {

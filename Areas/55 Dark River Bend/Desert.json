@@ -671,6 +671,7 @@
     },
     {
       "name": "West 1 Lake",
+      "condition": "w:lake",
       "background": "bg2",
       "screens": [
         {

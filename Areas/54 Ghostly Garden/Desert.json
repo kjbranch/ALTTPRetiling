@@ -541,6 +541,7 @@
     },
     {
       "name": "North 3",
+      "condition": "n:s1",
       "background": "bg2",
       "screens": [
         {
@@ -617,6 +618,7 @@
     },
     {
       "name": "East 4",
+      "condition": "e:s2",
       "background": "bg2",
       "screens": [
         {
@@ -757,6 +759,7 @@
     },
     {
       "name": "South 1",
+      "condition": "s:w",
       "background": "bg2",
       "screens": [
         {
@@ -915,6 +918,7 @@
     },
     {
       "name": "South 3",
+      "condition": "s:s1 & !s:s2",
       "background": "bg2",
       "screens": [
         {
@@ -1013,6 +1017,7 @@
     },
     {
       "name": "South 4 (incompatible with South 3)",
+      "condition": "s:s2 & !s:s1",
       "background": "bg2",
       "screens": [
         {
@@ -1099,6 +1104,7 @@
     },
     {
       "name": "West 4",
+      "condition": "w:s2",
       "background": "bg2",
       "screens": [
         {

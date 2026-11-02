@@ -783,6 +783,7 @@
     },
     {
       "name": "North 3",
+      "condition": "n:s1",
       "background": "bg2",
       "screens": [
         {
@@ -869,6 +870,7 @@
     },
     {
       "name": "East 4",
+      "condition": "e:s2",
       "background": "bg2",
       "screens": [
         {
@@ -988,6 +990,7 @@
     },
     {
       "name": "West 3 to 0",
+      "condition": "!w:s1",
       "background": "bg2",
       "screens": [
         {
@@ -1194,6 +1197,7 @@
     },
     {
       "name": "West 4 (Requires West 3 to 0)",
+      "condition": "!w:s1 & w:s2",
       "background": "bg2",
       "screens": [
         {

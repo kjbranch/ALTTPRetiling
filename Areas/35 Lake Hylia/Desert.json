@@ -1714,7 +1714,7 @@
     },
     {
       "name": "Normalized (Cave moves)",
-      "condition": "",
+      "condition": "true",
       "background": "bg2",
       "screens": [
         {

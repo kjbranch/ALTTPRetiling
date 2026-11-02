@@ -661,6 +661,7 @@
     },
     {
       "name": "North 4",
+      "condition": "n:s2",
       "background": "bg2",
       "screens": [
         {
@@ -765,6 +766,7 @@
     },
     {
       "name": "East 3 to 0",
+      "condition": "!e:s1",
       "background": "bg2",
       "screens": [
         {
@@ -917,6 +919,7 @@
     },
     {
       "name": "South 3",
+      "condition": "s:s1",
       "background": "bg2",
       "screens": [
         {
@@ -1081,6 +1084,7 @@
     },
     {
       "name": "North 4 and East 3 to 0",
+      "condition": "n:s2 & !e:s1",
       "background": "bg2",
       "screens": [
         {

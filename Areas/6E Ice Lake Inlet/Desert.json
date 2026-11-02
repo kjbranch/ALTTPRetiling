@@ -1665,6 +1665,7 @@
     },
     {
       "name": "Blocked Water",
+      "condition": "w:s1",
       "background": "bg2",
       "screens": [
         {
@@ -1723,6 +1724,7 @@
     },
     {
       "name": "North 1 (Moves Cave)",
+      "condition": "n:w",
       "background": "bg2",
       "screens": [
         {
@@ -1887,6 +1889,7 @@
     },
     {
       "name": "North 0",
+      "condition": "n:c",
       "background": "bg2",
       "screens": [
         {

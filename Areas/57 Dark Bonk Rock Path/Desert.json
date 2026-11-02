@@ -719,7 +719,7 @@
     },
     {
       "name": "North 4 to 0",
-      "condition": "",
+      "condition": "!n:s2",
       "background": "bg2",
       "screens": [
         {
@@ -754,7 +754,7 @@
     },
     {
       "name": "East 3",
-      "condition": "",
+      "condition": "e:s1",
       "background": "bg2",
       "screens": [
         {

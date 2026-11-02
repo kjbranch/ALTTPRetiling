@@ -2164,6 +2164,7 @@
     },
     {
       "name": "North 1 3",
+      "condition": "n1:s1",
       "background": "bg2",
       "screens": [
         {
@@ -2280,6 +2281,7 @@
     },
     {
       "name": "East 1 3 to 0",
+      "condition": "!e1:s1",
       "background": "bg2",
       "screens": [
         {
@@ -2444,6 +2446,7 @@
     },
     {
       "name": "East 2 4 to 0",
+      "condition": "!e2:s2",
       "background": "bg2",
       "screens": [
         { "position": [ 124, 94 ], "size": [ 4, 2 ], "palettes": [ [ 8, 8, 8, 8 ], [ 8, 8, 8, 8 ] ], "tiles": [ [ 74, 75, 74, 75 ], [ 87, 88, 87, 88 ] ], "flips": [ [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ] ] },
@@ -2557,6 +2560,7 @@
     },
     {
       "name": "South 1 4",
+      "condition": "s1:s2",
       "background": "bg2",
       "screens": [
         {
@@ -2743,6 +2747,7 @@
     },
     {
       "name": "South 2 3",
+      "condition": "s2:s1",
       "background": "bg2",
       "screens": [
         {
@@ -2881,6 +2886,7 @@
     },
     {
       "name": "West 1 3",
+      "condition": "w1:s1",
       "background": "bg2",
       "screens": [
         {
@@ -3033,6 +3039,7 @@
     },
     {
       "name": "North 1 3 and West 1 3",
+      "condition": "n1:s1 & w1:s1",
       "background": "bg2",
       "screens": [
         {
@@ -3079,6 +3086,7 @@
     },
     {
       "name": "East 2 4 to 0 and South 2 3",
+      "condition": "!e2:s2 & s2:s1",
       "background": "bg2",
       "screens": [
         {
@@ -3125,6 +3133,7 @@
     },
     {
       "name": "South 1 4 and South 2 3",
+      "condition": "s1:s2 & s2:s1",
       "background": "bg2",
       "screens": [
         {

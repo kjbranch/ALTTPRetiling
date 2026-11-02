@@ -592,6 +592,7 @@
     },
     {
       "name": "East 4",
+      "condition": "e:s2",
       "background": "bg2",
       "screens": [
         {
@@ -714,6 +715,7 @@
     },
     {
       "name": "South 4",
+      "condition": "s:s2",
       "background": "bg2",
       "screens": [
         {
@@ -778,6 +780,7 @@
     },
     {
       "name": "West 4 to 0",
+      "condition": "!w:s2",
       "background": "bg2",
       "screens": [
         {
