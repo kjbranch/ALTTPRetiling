@@ -466,6 +466,22 @@
               ]
             }
           ]
+        },
+        {
+          "before": {
+            "tiles": [
+              [ { "palette": 8, "tile": 280, "flip": 0 }, { "palette": 8, "tile": 280, "flip": 0 } ],
+              [ { "palette": 8, "tile": 280, "flip": 0 }, { "palette": 8, "tile": 280, "flip": 0 } ]
+            ]
+          },
+          "after_frames": [
+            {
+              "tiles": [
+                [ { "palette": 8, "tile": 267, "flip": 0 }, { "palette": 8, "tile": 267, "flip": 1 } ],
+                [ { "palette": 8, "tile": 267, "flip": 2 }, { "palette": 8, "tile": 267, "flip": 3 } ]
+              ]
+            }
+          ]
         }
       ]
     },
