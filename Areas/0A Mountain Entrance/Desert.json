@@ -11,6 +11,7 @@
   "layers": [
     {
       "name": "Main",
+      "condition": "true",
       "background": "bg2",
       "screens": [
         {
@@ -441,6 +442,7 @@
     },
     {
       "name": "Normalized",
+      "condition": "true",
       "background": "bg2",
       "screens": [
         {
@@ -629,6 +631,7 @@
     },
     {
       "name": "North 3",
+      "condition": "n:s1",
       "background": "bg2",
       "screens": [
         {
@@ -1561,6 +1564,7 @@
     },
     {
       "name": "East 4",
+      "condition": "e:s2",
       "background": "bg2",
       "screens": [
         {
@@ -1695,6 +1699,7 @@
     },
     {
       "name": "West 3",
+      "condition": "w:s1",
       "background": "bg2",
       "screens": [
         {
@@ -1805,6 +1810,7 @@
     },
     {
       "name": "North 3 and East 4",
+      "condition": "n:s1 & e:s2",
       "background": "bg2",
       "screens": [
         {

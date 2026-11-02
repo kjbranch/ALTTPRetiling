@@ -11,6 +11,7 @@
   "layers": [
     {
       "name": "Main",
+      "condition": "true",
       "background": "bg2",
       "screens": [
         {
@@ -441,6 +442,7 @@
     },
     {
       "name": "Normalized",
+      "condition": "true",
       "background": "bg2",
       "screens": [
         {
@@ -716,7 +718,8 @@
       ]
     },
     {
-      "name": "North 4 to 0 (requires East 3)",
+      "name": "North 4 to 0",
+      "condition": "",
       "background": "bg2",
       "screens": [
         {
@@ -751,6 +754,7 @@
     },
     {
       "name": "East 3",
+      "condition": "",
       "background": "bg2",
       "screens": [
         {

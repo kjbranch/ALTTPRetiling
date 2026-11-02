@@ -11,6 +11,7 @@
   "layers": [
     {
       "name": "Main",
+      "condition": "true",
       "background": "bg2",
       "screens": [
         {
@@ -441,6 +442,7 @@
     },
     {
       "name": "Lumberjack",
+      "condition": "",
       "background": "bg2",
       "screens": [
         {
@@ -487,6 +489,7 @@
     },
     {
       "name": "Normalized",
+      "condition": "true",
       "background": "bg2",
       "screens": [
         {
@@ -589,6 +592,7 @@
     },
     {
       "name": "South 3",
+      "condition": "s:s1",
       "background": "bg2",
       "screens": [
         {
@@ -905,6 +909,7 @@
     },
     {
       "name": "West 0",
+      "condition": "w:c",
       "background": "bg2",
       "screens": [
         {
@@ -981,6 +986,7 @@
     },
     {
       "name": "North 3",
+      "condition": "n:s1",
       "background": "bg2",
       "screens": [
         {
@@ -1063,6 +1069,7 @@
     },
     {
       "name": "East 3",
+      "condition": "e:s1",
       "background": "bg2",
       "screens": [
         {

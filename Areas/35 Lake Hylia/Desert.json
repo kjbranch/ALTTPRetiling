@@ -11,6 +11,7 @@
   "layers": [
     {
       "name": "Main",
+      "condition": "true",
       "background": "bg2",
       "screens": [
         {
@@ -1713,6 +1714,7 @@
     },
     {
       "name": "Normalized (Cave moves)",
+      "condition": "",
       "background": "bg2",
       "screens": [
         {
@@ -2489,6 +2491,7 @@
     },
     {
       "name": "North 1 3 (Cave moves back)",
+      "condition": "n1:s1",
       "background": "bg2",
       "screens": [
         {
@@ -2615,6 +2618,7 @@
     },
     {
       "name": "East 1 3",
+      "condition": "e1:s1",
       "background": "bg2",
       "screens": [
         {
@@ -2761,6 +2765,7 @@
     },
     {
       "name": "South 1 3",
+      "condition": "s1:s1",
       "background": "bg2",
       "screens": [
         {
@@ -2841,6 +2846,7 @@
     },
     {
       "name": "South 2 4",
+      "condition": "s2:s2",
       "background": "bg2",
       "screens": [
         {
@@ -3131,6 +3137,7 @@
     },
     {
       "name": "West 1 4",
+      "condition": "w1:s2",
       "background": "bg2",
       "screens": [
         { "position": [ 0, 30 ], "size": [ 2, 2 ], "palettes": [ [ 3, 3 ], [ 3, 3 ] ], "tiles": [ [ 80, 291 ], [ 69, 292 ] ], "flips": [ [ 1, 1 ], [ 1, 1 ] ] },
@@ -3251,6 +3258,7 @@
     },
     {
       "name": "West 2 1",
+      "condition": "w2:w | w2:lake",
       "background": "bg2",
       "screens": [
         {
@@ -3428,6 +3436,7 @@
     },
     {
       "name": "West 1 4 and West 2 1",
+      "condition": "w1:s2 & (w2:w | w2:lake)",
       "background": "bg2",
       "screens": [
         {
@@ -3441,6 +3450,7 @@
     },
     {
       "name": "West 2 1 Small Lake (Requires West 2 1)",
+      "condition": "false",
       "background": "bg2",
       "screens": [
         {
@@ -3527,6 +3537,7 @@
     },
     {
       "name": "West 2 1 Large Lake (Requires West 2 1)",
+      "condition": "w2:lake",
       "background": "bg2",
       "screens": [
         {

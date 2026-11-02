@@ -18,7 +18,8 @@
     "c": ["closed"],
     "w": ["wide"],
     "s1": ["small-1", "dual-small"],
-    "s2": ["small-2", "dual-small"] 
+    "s2": ["small-2", "dual-small"],
+    "dual": ["dual-small"]
   },
   "slot_aliases": {
     "n": "north",

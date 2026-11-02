@@ -870,6 +870,7 @@
     },
     {
       "name": "Main",
+      "condition": "true",
       "background": "bg2",
       "screens": [
         {

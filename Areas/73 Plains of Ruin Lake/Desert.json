@@ -11,6 +11,7 @@
   "layers": [
     {
       "name": "Main",
+      "condition": "true",
       "background": "bg2",
       "screens": [
         {
@@ -441,6 +442,7 @@
     },
     {
       "name": "Normalized",
+      "condition": "true",
       "background": "bg2",
       "screens": [
         {
@@ -681,6 +683,7 @@
     },
     {
       "name": "North 3 to 0",
+      "condition": "",
       "background": "bg2",
       "screens": [
         {
@@ -720,7 +723,8 @@
       ]
     },
     {
-      "name": "West 1",
+      "name": "East 1",
+      "condition": "",
       "background": "bg2",
       "screens": [
         {
@@ -819,6 +823,7 @@
     },
     {
       "name": "West 3",
+      "condition": "",
       "background": "bg2",
       "screens": [
         {

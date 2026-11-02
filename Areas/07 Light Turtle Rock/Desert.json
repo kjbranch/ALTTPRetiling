@@ -11,6 +11,7 @@
   "layers": [
     {
       "name": "Main",
+      "condition": "true",
       "background": "bg2",
       "screens": [
         {
@@ -441,11 +442,13 @@
     },
     {
       "name": "Turtle Rock Portal",
+      "condition": "",
       "background": "bg2",
       "screens": [ { "position": [ 32, 28 ], "size": [ 2, 2 ], "palettes": [ [ 3, 3 ], [ 3, 3 ] ], "tiles": [ [ 27, 27 ], [ 27, 27 ] ], "flips": [ [ 0, 1 ], [ 2, 3 ] ] } ]
     },
     {
       "name": "Normalized",
+      "condition": "true",
       "background": "bg2",
       "screens": [
         {
@@ -534,6 +537,7 @@
     },
     {
       "name": "North 3",
+      "condition": "n:s1",
       "background": "bg2",
       "screens": [
         {
@@ -574,6 +578,7 @@
     },
     {
       "name": "South 4",
+      "condition": "s:s2",
       "background": "bg2",
       "screens": [
         {
@@ -626,6 +631,7 @@
     },
     {
       "name": "West 3 to 0",
+      "condition": "w:c",
       "background": "bg2",
       "screens": [
         {
