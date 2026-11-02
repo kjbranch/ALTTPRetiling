@@ -1,0 +1,37 @@
+{
+  "edge_variants": [
+    "closed",
+    "wide",
+    "dual-small",
+    "small-1",
+    "small-2",
+    "light-only",
+    "land-water-land",
+    "vertical-water-land",
+    "horizonal-water-land",
+    "horizontal-land-water",
+    "split-house",
+    "lake",
+    "light-and-mirror"
+  ],
+  "edge_variant_aliases": {
+    "c": ["closed"],
+    "w": ["wide"],
+    "s1": ["small-1", "dual-small"],
+    "s2": ["small-2", "dual-small"] 
+  },
+  "slot_aliases": {
+    "n": "north",
+    "n1": "north-1",
+    "n2": "north-2",
+    "s": "south",
+    "s1": "south-1",
+    "s2": "south-2",
+    "e": "east",
+    "e1": "east-1",
+    "e2": "east-2",
+    "w": "west",
+    "w1": "west-1",
+    "w2": "west-2"
+  }
+}
