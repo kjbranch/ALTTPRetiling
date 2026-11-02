@@ -657,10 +657,10 @@
             [ null, null, null, null, null, null, 83, 220, 217, 233, 235, 457, 456, 457, 456, 457, 456, 457 ],
             [ null, null, null, null, null, null, 82, 218, 233, 234, 108, 111, 141, 141, 141, 141, 141, 141 ],
             [ null, null, null, null, null, null, 77, 82, 235, 107, 111, 112, 53, 53, 53, 53, 53, 53 ],
-            [ null, null, null, null, null, null, null, null, 291, 60, 64, 53, 54, 53, 53, 53, 53, 53 ],
-            [ null, null, null, null, null, null, null, null, 292, 61, 64, 53, 53, 53, 53, 53, 53, 53 ],
-            [ null, null, null, null, null, null, null, null, 291, 80, 82, 83, 53, 53, 53, 53, 53, 53 ],
-            [ null, null, null, null, null, null, null, null, 292, 69, 77, 82, 84, 84, 84, 84, 83, 53 ],
+            [ null, null, null, null, null, null, null, null, 62, 60, 64, 53, 54, 53, 53, 53, 53, 53 ],
+            [ null, null, null, null, null, null, null, null, 63, 61, 64, 53, 53, 53, 53, 53, 53, 53 ],
+            [ null, null, null, null, null, null, null, null, 62, 80, 82, 83, 53, 53, 53, 53, 53, 53 ],
+            [ null, null, null, null, null, null, null, null, 63, 69, 77, 82, 84, 84, 84, 84, 83, 53 ],
             [ null, null, null, null, null, null, null, null, 76, 65, 66, 67, 70, 71, null, null, 82, 83 ],
             [ null, null, null, null, null, null, null, null, 64, 459, 68, 69, 72, 73, null, null, 77, 82 ],
             [ null, null, null, null, null, null, null, null, null, null, 458, 65, 74, 75, null, null, 66, 67 ],
@@ -700,6 +700,59 @@
             [ null, null, null, null, null, null, null, null, null, null, 0, 0, 0, 0, null, null, 0, 0 ],
             [ null, null, null, null, null, null, null, null, null, null, 0, 0, 0, 0, null, null, 0, 0 ]
           ]
+        }
+      ]
+    },
+    {
+      "name": "South 3 to 0",
+      "background": "bg2",
+      "screens": [
+        {
+          "position": [ 42, 56 ],
+          "size": [ 22, 8 ],
+          "palettes": [
+            [ null, null, null, null, null, null, null, null, null, null, null, null, 3, 3, 3, 3, null, null, null, null, null, null ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, 3, 3, 3, 3, null, null, null, null, null, null ],
+            [ null, null, null, null, 5, 5, null, null, 5, 3, null, null, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3 ],
+            [ null, null, null, null, 3, 5, null, null, 5, 3, null, null, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3 ],
+            [ 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3 ],
+            [ 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3 ],
+            [ 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3 ],
+            [ 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3 ]
+          ],
+          "tiles": [
+            [ null, null, null, null, null, null, null, null, null, null, null, null, 62, 60, 76, 65, null, null, null, null, null, null ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, 63, 61, 64, 459, null, null, null, null, null, null ],
+            [ null, null, null, null, 215, 216, null, null, 215, 233, null, null, 62, 60, 64, 53, 458, 65, 74, 75, 74, 75 ],
+            [ null, null, null, null, 233, 218, null, null, 217, 260, null, null, 63, 61, 64, 53, 53, 459, 289, 290, 289, 290 ],
+            [ 53, 145, 111, 108, 234, 236, 236, 236, 236, 234, 108, 109, 108, 111, 112, 53, 53, 53, 53, 53, 53, 53 ],
+            [ 53, 53, 145, 111, 108, 457, 456, 457, 456, 107, 110, 107, 111, 112, 53, 53, 53, 53, 53, 53, 53, 53 ],
+            [ 53, 53, 53, 145, 141, 141, 141, 141, 141, 141, 291, 60, 64, 53, 53, 53, 53, 53, 53, 53, 53, 53 ],
+            [ 53, 53, 53, 53, 53, 53, 53, 53, 53, 53, 292, 61, 64, 53, 53, 53, 53, 53, 53, 53, 53, 53 ]
+          ],
+          "flips": [
+            [ null, null, null, null, null, null, null, null, null, null, null, null, 0, 0, 0, 0, null, null, null, null, null, null ],
+            [ null, null, null, null, null, null, null, null, null, null, null, null, 0, 0, 2, 0, null, null, null, null, null, null ],
+            [ null, null, null, null, 0, 0, null, null, 0, 0, null, null, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+            [ null, null, null, null, 1, 0, null, null, 0, 3, null, null, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0 ],
+            [ 0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 3, 0, 3, 0, 3, 0 ],
+            [ 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 3, 2, 3, 2, 3 ],
+            [ 3, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 3, 0, 3, 0, 3, 0, 3, 0 ],
+            [ 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 2, 3, 2, 3, 2, 3, 2, 3 ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "East 4 and South 3 to 0",
+      "background": "bg2",
+      "screens": [
+        {
+          "position": [ 56, 56 ],
+          "size": [ 8, 4 ],
+          "palettes": [ [ 3, 3, null, null, null, null, null, null ], [ 3, 3, null, null, null, null, null, null ], [ null, null, 3, 3, 3, 3, 3, 3 ], [ null, null, 3, 3, 3, 3, 3, 3 ] ],
+          "tiles": [ [ 64, 53, null, null, null, null, null, null ], [ 64, 53, null, null, null, null, null, null ], [ null, null, 53, 53, 53, 53, 53, 53 ], [ null, null, 53, 53, 53, 53, 53, 53 ] ],
+          "flips": [ [ 0, 0, null, null, null, null, null, null ], [ 2, 0, null, null, null, null, null, null ], [ null, null, 3, 0, 3, 0, 3, 0 ], [ null, null, 2, 3, 2, 3, 2, 3 ] ]
         }
       ]
     }
