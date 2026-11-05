@@ -1,4 +1,5 @@
 {
+  "world": "special",
   "vanilla_map_id": 128,
   "bg_color": [ 6, 14, 6 ],
   "bg_layering": "half_add",
