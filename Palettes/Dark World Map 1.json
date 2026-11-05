@@ -1,6 +1,5 @@
 {
   "id": 115,
-  "map_world": "dark",
   "colors": [
     [ 0, 0, 0 ],
     [ 6, 6, 6 ],
@@ -22,7 +21,6 @@
   "tiles": [
     {
       "id": 0,
-      "map_use": "terrain",
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -40,7 +38,6 @@
     },
     {
       "id": 1,
-      "map_use": "terrain",
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -58,7 +55,6 @@
     },
     {
       "id": 2,
-      "map_use": "terrain",
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -76,7 +72,6 @@
     },
     {
       "id": 3,
-      "map_use": "terrain",
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -94,7 +89,6 @@
     },
     {
       "id": 4,
-      "map_use": "terrain",
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -112,7 +106,6 @@
     },
     {
       "id": 5,
-      "map_use": "terrain",
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -130,7 +123,6 @@
     },
     {
       "id": 6,
-      "map_use": "terrain",
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -148,7 +140,6 @@
     },
     {
       "id": 7,
-      "map_use": "terrain",
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -166,7 +157,6 @@
     },
     {
       "id": 8,
-      "map_use": "terrain",
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -184,7 +174,6 @@
     },
     {
       "id": 9,
-      "map_use": "terrain",
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -202,7 +191,6 @@
     },
     {
       "id": 10,
-      "map_use": "terrain",
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -220,7 +208,6 @@
     },
     {
       "id": 11,
-      "map_use": "terrain",
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -238,7 +225,6 @@
     },
     {
       "id": 12,
-      "map_use": "terrain",
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -256,7 +242,6 @@
     },
     {
       "id": 13,
-      "map_use": "terrain",
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -274,7 +259,6 @@
     },
     {
       "id": 14,
-      "map_use": "terrain",
       "priority": false,
       "collision": 0,
       "h_flippable": false,
@@ -292,7 +276,6 @@
     },
     {
       "id": 15,
-      "map_use": "terrain",
       "priority": false,
       "collision": 0,
       "h_flippable": false,
