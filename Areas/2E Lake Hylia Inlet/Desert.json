@@ -441,8 +441,8 @@
         }
       ],
       "map": {
-        "palettes": [ [ 113, 113, 113, 113 ], [ 113, 123, 123, 113 ], [ 123, 123, 123, 113 ], [ 113, 113, 113, 113 ] ],
-        "tiles": [ [ 13, 22, 25, 14 ], [ 23, 52, 52, 12 ], [ 33, 33, 33, 26 ], [ 44, 44, 60, 26 ] ],
+        "palettes": [ [ 113, 113, 113, 113 ], [ 113, 113, 113, 113 ], [ 123, 113, 113, 113 ], [ 113, 113, 113, 113 ] ],
+        "tiles": [ [ 17, 16, 63, 14 ], [ 84, 104, 93, 18 ], [ 3, 89, 104, 18 ], [ 24, 92, 111, 18 ] ],
         "flips": [ [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ] ]
       }
     },
@@ -1667,7 +1667,12 @@
             [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, null, null, null, null, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0 ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [ [ null, null, null, null ], [ 113, null, null, null ], [ 113, null, null, null ], [ null, null, null, null ] ],
+        "tiles": [ [ null, null, null, null ], [ 87, null, null, null ], [ 139, null, null, null ], [ null, null, null, null ] ],
+        "flips": [ [ null, null, null, null ], [ 0, null, null, null ], [ 0, null, null, null ], [ null, null, null, null ] ]
+      }
     },
     {
       "name": "Blocked Water",
@@ -1726,7 +1731,12 @@
             [ 0, 0, null, null ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ 113, null, null, null ], [ 113, null, null, null ] ],
+        "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ 47, null, null, null ], [ 6, null, null, null ] ],
+        "flips": [ [ null, null, null, null ], [ null, null, null, null ], [ 0, null, null, null ], [ 0, null, null, null ] ]
+      }
     },
     {
       "name": "North 1 (Moves Cave)",
@@ -1867,7 +1877,12 @@
             [ null, null, null, null, null, null, null, null, null, null, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, null, null, null, null, null, null, null, null, null, null, null, null ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [ [ null, 113, 113, 113 ], [ null, null, 113, 113 ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "tiles": [ [ null, 38, 7, 5 ], [ null, null, 16, 14 ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "flips": [ [ null, 0, 0, 0 ], [ null, null, 0, 0 ], [ null, null, null, null ], [ null, null, null, null ] ]
+      }
     },
     {
       "name": "North 0",
@@ -1908,7 +1923,12 @@
             [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, null, null ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [ [ 113, 113, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "tiles": [ [ 45, 45, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "flips": [ [ 0, 0, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ]
+      }
     }
   ]
 }
