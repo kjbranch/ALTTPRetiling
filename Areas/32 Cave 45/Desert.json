@@ -1283,7 +1283,7 @@
     },
     {
       "name": "North 3",
-      "condition": "n:s1",
+      "condition": "!n:s2",
       "background": "bg2",
       "screens": [
         {
