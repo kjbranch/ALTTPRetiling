@@ -441,8 +441,8 @@
         }
       ],
       "map": {
-        "palettes": [ [ 123, 123, 123, 113 ], [ 123, 123, 123, 113 ], [ 113, 109, 109, 113 ], [ 113, 113, 113, 113 ] ],
-        "tiles": [ [ 3, 3, 38, 12 ], [ 42, 42, 43, 12 ], [ 4, 6, 1, 12 ], [ 34, 35, 41, 42 ] ],
+        "palettes": [ [ 113, 113, 113, 113 ], [ 113, 113, 113, 113 ], [ 113, 113, 113, 113 ], [ 113, 113, 113, 113 ] ],
+        "tiles": [ [ 49, 43, 17, 18 ], [ 97, 112, 38, 18 ], [ 8, 16, 38, 18 ], [ 109, 107, 107, 110 ] ],
         "flips": [ [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ] ]
       }
     },
@@ -721,7 +721,12 @@
             [ 2, 3, null, null, 2, 3, 2, 3, 2, 3, 2, 3, 0, 0, 0, 0, 3, 3, null, null, null, null, null, null ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ 113, null, null, null ], [ null, null, null, null ] ],
+        "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ 113, null, null, null ], [ null, null, null, null ] ],
+        "flips": [ [ null, null, null, null ], [ null, null, null, null ], [ 0, null, null, null ], [ null, null, null, null ] ]
+      }
     },
     {
       "name": "North 4 to 0",
@@ -756,7 +761,12 @@
             [ null, null, null, null, null, null, null, null, 0, 0, 0, 0, null, null ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [ [ null, null, 113, 113 ], [ null, null, 113, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "tiles": [ [ null, null, 45, 14 ], [ null, null, 38, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "flips": [ [ null, null, 0, 0 ], [ null, null, 0, null ], [ null, null, null, null ], [ null, null, null, null ] ]
+      }
     },
     {
       "name": "East 3",
@@ -915,7 +925,23 @@
             [ null, null, null, null, 0, 0 ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [ [ null, null, null, 113 ], [ null, null, null, 113 ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "tiles": [ [ null, null, null, 16 ], [ null, null, null, 7 ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "flips": [ [ null, null, null, 0 ], [ null, null, null, 0 ], [ null, null, null, null ], [ null, null, null, null ] ]
+      }
+    },
+    {
+      "name": "North 4 to 0 and East 3",
+      "condition": "!n:s2 & e:s1",
+      "background": "bg2",
+      "screens": [ ],
+      "map": {
+        "palettes": [ [ null, null, null, 113 ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "tiles": [ [ null, null, null, 45 ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "flips": [ [ null, null, null, 0 ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ]
+      }
     }
   ]
 }

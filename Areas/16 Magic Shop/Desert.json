@@ -441,8 +441,8 @@
         }
       ],
       "map": {
-        "palettes": [ [ 112, 112, 112, 112 ], [ 123, 123, 123, 123 ], [ 123, 109, 123, 113 ], [ 113, 113, 113, 113 ] ],
-        "tiles": [ [ 11, 11, 11, 21 ], [ 42, 42, 42, 42 ], [ 52, 20, 53, 3 ], [ 35, 35, 35, 2 ] ],
+        "palettes": [ [ 113, 113, 113, 113 ], [ 113, 113, 113, 113 ], [ 113, 109, 123, 113 ], [ 113, 113, 113, 113 ] ],
+        "tiles": [ [ 45, 45, 45, 45 ], [ 97, 97, 97, 97 ], [ 93, 35, 64, 7 ], [ 24, 24, 24, 5 ] ],
         "flips": [ [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ] ]
       }
     },
@@ -821,7 +821,12 @@
             [ null, null, null, null, null, null, null, null, 1, 2, 1, 1 ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 113 ], [ null, null, null, 113 ] ],
+        "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 106 ], [ null, null, null, 6 ] ],
+        "flips": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 0 ], [ null, null, null, 0 ] ]
+      }
     },
     {
       "name": "South 4",
@@ -932,7 +937,12 @@
             [ 1, 1, 0, 0, 0, 0, 1, 0, 2, 3, 0, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 2, 3, 2, 3, 2, 3, 0, 0 ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, 113, 113 ] ],
+        "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, 8, 18 ] ],
+        "flips": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, 0, 0 ] ]
+      }
     }
   ]
 }
