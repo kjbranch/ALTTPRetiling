@@ -442,7 +442,7 @@
       ],
       "map": {
         "palettes": [ [ 113, 113, 113, 113 ], [ 113, 109, 113, 113 ], [ 109, 113, 109, 113 ], [ 113, 113, 113, 113 ] ],
-        "tiles": [ [ 15, 45, 17, 16 ], [ 17, 36, 45, 14 ], [ 38, 38, 35, 16 ], [ 130, 107, 107, 107 ] ],
+        "tiles": [ [ 15, 17, 38, 16 ], [ 17, 36, 45, 14 ], [ 38, 38, 35, 16 ], [ 130, 107, 107, 127 ] ],
         "flips": [ [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ] ]
       }
     },
@@ -587,7 +587,12 @@
             [ null, null, null, null, null, null, null, null, null, null, 0, 2, 1, 1 ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [ [ null, 113, 113, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "tiles": [ [ null, 45, 17, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "flips": [ [ null, 0, 0, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ]
+      }
     },
     {
       "name": "North 0",
