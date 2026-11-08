@@ -441,8 +441,8 @@
         }
       ],
       "map": {
-        "palettes": [ [ 123, 109, 113, 113 ], [ 109, 109, 113, 113 ], [ 109, 113, 113, 109 ], [ 113, 113, 113, 123 ] ],
-        "tiles": [ [ 11, 4, 3, 24 ], [ 16, 4, 55, 25 ], [ 4, 56, 53, 11 ], [ 35, 70, 52, 54 ] ],
+        "palettes": [ [ 113, 113, 113, 113 ], [ 113, 113, 113, 113 ], [ 113, 113, 123, 123 ], [ 113, 113, 113, 113 ] ],
+        "tiles": [ [ 17, 18, 15, 45 ], [ 38, 18, 17, 38 ], [ 141, 142, 65, 65 ], [ 140, 143, 85, 7 ] ],
         "flips": [ [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ] ]
       }
     },
@@ -726,7 +726,12 @@
             [ null, null, null, null, null, null, null, null, 0, 0, 0, 0, null, null ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [ [ 113, 113, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "tiles": [ [ 45, 14, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "flips": [ [ 0, 0, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ]
+      }
     },
     {
       "name": "East 1",
@@ -972,7 +977,12 @@
             [ null, null, null, null, null, null, 2, 3, 0, 0, null, null, null, null ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [ [ null, null, null, null ], [ 113, null, null, null ], [ 113, 113, null, null ], [ 113, 113, null, null ] ],
+        "tiles": [ [ null, null, null, null ], [ 8, null, null, null ], [ 65, 144, null, null ], [ 65, 145, null, null ] ],
+        "flips": [ [ null, null, null, null ], [ 0, null, null, null ], [ 0, 0, null, null ], [ 0, 0, null, null ] ]
+      }
     },
     {
       "name": "Large Lake",
