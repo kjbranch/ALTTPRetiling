@@ -791,7 +791,7 @@
     },
     {
       "name": "North 0 and East 3",
-      "condition": "true",
+      "condition": "!n:s2 & e:s1",
       "background": "bg2",
       "screens": [
         {

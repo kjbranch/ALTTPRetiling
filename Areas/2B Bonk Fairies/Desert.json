@@ -1123,7 +1123,7 @@
     },
     {
       "name": "South 3 to 0 and West 4",
-      "condition": "true",
+      "condition": "s:c & w:s2",
       "background": "bg2",
       "screens": [ ],
       "map": {
