@@ -1731,7 +1731,7 @@
           [ 65, 38, 39, 38, 39, 38, 39, 98 ],
           [ 65, 38, 40, 38, 40, 38, 40, 98 ],
           [ 65, 36, 38, 36, 38, 35, 38, 100 ],
-          [ 109, 107, 107, 107, 107, 114, 38, 7 ]
+          [ 109, 127, 130, 107, 107, 114, 38, 7 ]
         ],
         "flips": [
           [ 0, 0, 0, 0, 0, 0, 0, 0 ],
@@ -2860,7 +2860,7 @@
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
-          [ null, null, 114, 115, null, null, null, null ]
+          [ null, null, 8, 115, null, null, null, null ]
         ],
         "flips": [
           [ null, null, null, null, null, null, null, null ],
@@ -3430,7 +3430,7 @@
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ 17, null, null, null, null, null, null, null ],
-          [ 107, null, null, null, null, null, null, null ]
+          [ 130, null, null, null, null, null, null, null ]
         ],
         "flips": [
           [ null, null, null, null, null, null, null, null ],

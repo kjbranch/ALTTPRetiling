@@ -1727,10 +1727,10 @@
           [ 15, 45, 45, 45, 72, 68, 72, 14 ],
           [ 65, 15, 14, 7, 40, 40, 40, 18 ],
           [ 65, 128, 129, 16, 45, 32, 45, 18 ],
-          [ 65, 77, 8, 14, 15, 32, 14, 18 ],
-          [ 65, 32, 17, 16, 17, 38, 16, 18 ],
-          [ 65, 32, 14, 38, 15, 45, 32, 18 ],
-          [ 65, 93, 16, 32, 17, 93, 85, 18 ],
+          [ 15, 45, 7, 15, 32, 45, 32, 18 ],
+          [ 65, 77, 16, 17, 93, 15, 14, 18 ],
+          [ 65, 32, 14, 77, 15, 17, 18, 18 ],
+          [ 65, 93, 16, 32, 17, 93, 16, 18 ],
           [ 65, 115, 107, 107, 107, 107, 114, 18 ]
         ],
         "flips": [
@@ -3797,7 +3797,39 @@
           ],
           "flips": [ [ 0, 0, 0, 1, 1, 0 ], [ 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, null, null ], [ 0, 0, 0, 0, null, null ], [ 0, 0, 0, 0, null, null ], [ 0, 0, 2, 0, null, null ] ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ 113, null, null, null, null, null, null, null ]
+        ],
+        "tiles": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ 130, null, null, null, null, null, null, null ]
+        ],
+        "flips": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ 0, null, null, null, null, null, null, null ]
+        ]
+      }
     },
     {
       "name": "West 1 1 Small Lake (Requires West 1 1)",
