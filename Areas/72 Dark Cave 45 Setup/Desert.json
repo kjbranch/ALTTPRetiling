@@ -441,8 +441,8 @@
         }
       ],
       "map": {
-        "palettes": [ [ 116, 116, 116, 116 ], [ 119, 117, 117, 117 ], [ 119, 119, 119, 120 ], [ 119, 119, 119, 119 ] ],
-        "tiles": [ [ 8, 10, 8, 9 ], [ 4, 9, 9, 9 ], [ 13, 28, 29, 13 ], [ 30, 2, 30, 31 ] ],
+        "palettes": [ [ 119, 119, 119, 119 ], [ 119, 128, 128, 119 ], [ 119, 119, 119, 117 ], [ 119, 119, 119, 119 ] ],
+        "tiles": [ [ 13, 19, 20, 19 ], [ 13, 32, 32, 10 ], [ 13, 28, 29, 4 ], [ 30, 2, 6, 21 ] ],
         "flips": [ [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ] ]
       }
     },
@@ -1308,8 +1308,8 @@
         }
       ],
       "map": {
-        "palettes": [ [ null, null, 113, 113 ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
-        "tiles": [ [ null, null, 45, 45 ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "palettes": [ [ null, null, 119, 119 ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "tiles": [ [ null, null, 22, 22 ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
         "flips": [ [ null, null, 0, 0 ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ]
       }
     },
@@ -1406,8 +1406,8 @@
         }
       ],
       "map": {
-        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, 113, 113 ] ],
-        "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, 8, 7 ] ],
+        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, 119, 119 ] ],
+        "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, 13, 3 ] ],
         "flips": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, 0, 0 ] ]
       }
     }

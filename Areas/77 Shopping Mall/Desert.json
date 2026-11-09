@@ -1243,8 +1243,8 @@
         }
       ],
       "map": {
-        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ null, 113, 113, null ], [ 113, 113, 113, null ] ],
-        "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ null, 151, 152, null ], [ 6, 92, 111, null ] ],
+        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ null, 119, 119, null ], [ 119, 119, 119, null ] ],
+        "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ null, 152, 153, null ], [ 6, 43, 102, null ] ],
         "flips": [ [ null, null, null, null ], [ null, null, null, null ], [ null, 0, 0, null ], [ 0, 0, 0, null ] ]
       }
     },
@@ -1539,8 +1539,8 @@
         }
       ],
       "map": {
-        "palettes": [ [ null, null, 113, 113 ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
-        "tiles": [ [ null, null, 17, 18 ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "palettes": [ [ null, null, 119, 119 ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "tiles": [ [ null, null, 20, 12 ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
         "flips": [ [ null, null, 0, 0 ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ]
       }
     },
@@ -1664,8 +1664,8 @@
         }
       ],
       "map": {
-        "palettes": [ [ 113, null, null, null ], [ 113, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
-        "tiles": [ [ 45, null, null, null ], [ 87, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "palettes": [ [ 119, null, null, null ], [ 119, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "tiles": [ [ 22, null, null, null ], [ 115, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
         "flips": [ [ 0, null, null, null ], [ 0, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ]
       }
     }
