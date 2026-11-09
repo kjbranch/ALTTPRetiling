@@ -1715,23 +1715,23 @@
       "map": {
         "palettes": [
           [ 119, 119, 119, 119, 119, 118, 118, 119 ],
-          [ 119, 119, 119, 119, 117, 118, 118, 119 ],
+          [ 119, 119, 119, 119, 128, 118, 118, 119 ],
           [ 119, 119, 119, 119, 119, 119, 119, 119 ],
           [ 119, 119, 119, 119, 119, 119, 119, 119 ],
           [ 119, 119, 119, 119, 119, 119, 119, 119 ],
-          [ 119, 119, 119, 117, 119, 117, 117, 119 ],
-          [ 119, 117, 119, 119, 119, 119, 119, 119 ],
-          [ 113, 119, 119, 119, 119, 119, 119, 119 ]
+          [ 119, 119, 119, 128, 119, 128, 128, 119 ],
+          [ 119, 119, 119, 119, 119, 119, 119, 119 ],
+          [ 119, 119, 119, 119, 119, 119, 119, 119 ]
         ],
         "tiles": [
-          [ 3, 82, 90, 91, 82, 48, 49, 82 ],
-          [ 89, 22, 20, 12, 4, 52, 53, 3 ],
+          [ 42, 82, 90, 91, 82, 48, 49, 82 ],
+          [ 45, 44, 37, 33, 32, 52, 53, 3 ],
           [ 24, 82, 82, 83, 86, 22, 22, 17 ],
           [ 24, 88, 1, 1, 1, 1, 18, 17 ],
           [ 24, 88, 22, 22, 22, 22, 22, 17 ],
-          [ 24, 18, 85, 4, 86, 4, 4, 12 ],
-          [ 13, 4, 19, 88, 20, 22, 85, 19 ],
-          [ 83, 97, 97, 97, 97, 97, 97, 97 ]
+          [ 24, 85, 81, 32, 86, 32, 32, 12 ],
+          [ 13, 19, 22, 88, 20, 22, 85, 19 ],
+          [ 113, 97, 97, 97, 97, 97, 97, 97 ]
         ],
         "flips": [
           [ 0, 0, 0, 0, 0, 0, 0, 0 ],
@@ -2205,27 +2205,27 @@
       ],
       "map": {
         "palettes": [
-          [ null, null, null, null, null, null, null, 113 ],
+          [ null, null, null, null, null, null, 118, 119 ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
-          [ null, null, null, null, null, null, null, 113 ]
+          [ null, null, null, null, null, null, null, 119 ]
         ],
         "tiles": [
-          [ null, null, null, null, null, null, null, 45 ],
+          [ null, null, null, null, null, null, 54, 87 ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
-          [ null, null, null, null, null, null, null, 86 ]
+          [ null, null, null, null, null, null, null, 114 ]
         ],
         "flips": [
-          [ null, null, null, null, null, null, null, 0 ],
+          [ null, null, null, null, null, null, 0, 0 ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
@@ -2354,7 +2354,7 @@
       ],
       "map": {
         "palettes": [
-          [ 113, 113, null, null, null, null, null, null ],
+          [ 119, 119, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
@@ -2364,7 +2364,7 @@
           [ null, null, null, null, null, null, null, null ]
         ],
         "tiles": [
-          [ 17, 6, null, null, null, null, null, null ],
+          [ 116, 84, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
@@ -2551,8 +2551,8 @@
       ],
       "map": {
         "palettes": [
-          [ null, null, null, null, null, null, null, 113 ],
-          [ null, null, null, null, null, null, null, 113 ],
+          [ null, null, null, null, null, null, null, 119 ],
+          [ null, null, null, null, null, null, null, 119 ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
@@ -2562,7 +2562,7 @@
         ],
         "tiles": [
           [ null, null, null, null, null, null, null, 14 ],
-          [ null, null, null, null, null, null, null, 18 ],
+          [ null, null, null, null, null, null, null, 12 ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
@@ -2703,8 +2703,8 @@
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
-          [ null, null, null, null, null, null, null, 113 ],
-          [ null, null, null, null, null, null, null, 113 ]
+          [ null, null, null, null, null, null, null, 119 ],
+          [ null, null, null, null, null, null, null, 119 ]
         ],
         "tiles": [
           [ null, null, null, null, null, null, null, null ],
@@ -2713,8 +2713,8 @@
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
-          [ null, null, null, null, null, null, null, 18 ],
-          [ null, null, null, null, null, null, null, 82 ]
+          [ null, null, null, null, null, null, null, 12 ],
+          [ null, null, null, null, null, null, null, 112 ]
         ],
         "flips": [
           [ null, null, null, null, null, null, null, null ],
@@ -2923,7 +2923,7 @@
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
-          [ null, 113, 113, 113, 113, null, null, null ]
+          [ null, 119, 119, 119, 119, null, null, null ]
         ],
         "tiles": [
           [ null, null, null, null, null, null, null, null ],
@@ -2933,7 +2933,7 @@
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
-          [ null, 86, 8, 7, 87, null, null, null ]
+          [ null, 114, 4, 3, 115, null, null, null ]
         ],
         "flips": [
           [ null, null, null, null, null, null, null, null ],
@@ -3094,7 +3094,7 @@
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
-          [ null, null, null, 113, 113, 113, 113, null ]
+          [ null, null, null, 119, 119, 119, 119, null ]
         ],
         "tiles": [
           [ null, null, null, null, null, null, null, null ],
@@ -3104,7 +3104,7 @@
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
-          [ null, null, null, 86, 8, 7, 87, null ]
+          [ null, null, null, 114, 4, 3, 115, null ]
         ],
         "flips": [
           [ null, null, null, null, null, null, null, null ],
@@ -3272,8 +3272,8 @@
       ],
       "map": {
         "palettes": [
-          [ 113, null, null, null, null, null, null, null ],
-          [ 113, 113, null, null, null, null, null, null ],
+          [ 119, null, null, null, null, null, null, null ],
+          [ 119, 119, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
@@ -3282,8 +3282,8 @@
           [ null, null, null, null, null, null, null, null ]
         ],
         "tiles": [
-          [ 17, null, null, null, null, null, null, null ],
-          [ 8, 15, null, null, null, null, null, null ],
+          [ 20, null, null, null, null, null, null, null ],
+          [ 4, 86, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
@@ -3446,7 +3446,7 @@
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
-          [ null, null, null, 113, null, null, null, null ]
+          [ null, null, null, 119, null, null, null, null ]
         ],
         "tiles": [
           [ null, null, null, null, null, null, null, null ],
@@ -3456,7 +3456,7 @@
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
-          [ null, null, null, 7, null, null, null, null ]
+          [ null, null, null, 3, null, null, null, null ]
         ],
         "flips": [
           [ null, null, null, null, null, null, null, null ],
