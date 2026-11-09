@@ -12,38 +12,6 @@
   "layers": [
     {
       "name": "Main",
-      "map": {
-        "palettes": [
-          [119, 119, 119, 119, 119, 119, 119, 119],
-          [119, 119, 119, 119, 119, 119, 119, 119],
-          [119, 119, 119, 119, 119, 119, 119, 119],
-          [119, 119, 119, 119, 119, 119, 119, 119],
-          [119, 119, 115, 115, 119, 119, 119, 119],
-          [119, 119, 119, 119, 119, 119, 119, 119],
-          [119, 119, 119, 119, 119, 120, 120, 119],
-          [119, 119, 119, 119, 119, 119, 119, 119]
-        ],
-        "tiles": [
-          [15, 40, 40, 40, 40, 40, 57, 58],
-          [56, 69, 69, 69, 69, 80, 35, 12],
-          [56, 69, 69, 69, 69, 68, 80, 12],
-          [56, 69, 68, 68, 69, 68, 80, 12],
-          [56, 67, 4, 7, 67, 68, 80, 12],
-          [56, 69, 68, 69, 69, 80, 35, 12],
-          [13, 79, 35, 79, 79, 19, 13, 12],
-          [13, 28, 31, 31, 31, 31, 32, 12]
-        ],
-        "flips": [
-          [0, 0, 0, 0, 0, 0, 0, 0],
-          [0, 0, 0, 0, 0, 0, 0, 0],
-          [0, 0, 0, 0, 0, 0, 0, 0],
-          [0, 0, 0, 0, 0, 0, 0, 0],
-          [0, 0, 0, 0, 0, 0, 0, 0],
-          [0, 0, 0, 0, 0, 0, 0, 0],
-          [0, 0, 0, 0, 0, 0, 0, 0],
-          [0, 0, 0, 0, 0, 0, 0, 0]
-        ]
-      },
       "condition": "true",
       "background": "bg2",
       "screens": [
@@ -1743,15 +1711,49 @@
             [ 0, 0, 2, 3, 2, 3, 2, 3, 0, 2, 3, 1, 3, 1, 3, 3, 3, 3, 0, 2, 0, 2, 2, 0, 2, 3, 2, 3, 0, 0, 2, 3 ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [
+          [ 119, 119, 119, 119, 119, 119, 128, 128 ],
+          [ 119, 128, 128, 128, 128, 128, 128, 119 ],
+          [ 119, 128, 128, 128, 128, 128, 128, 119 ],
+          [ 119, 128, 128, 128, 128, 128, 128, 119 ],
+          [ 119, 128, 115, 115, 128, 128, 128, 119 ],
+          [ 119, 128, 128, 128, 128, 128, 128, 119 ],
+          [ 119, 128, 128, 128, 128, 120, 120, 119 ],
+          [ 119, 119, 119, 119, 119, 119, 119, 119 ]
+        ],
+        "tiles": [
+          [ 15, 1, 1, 1, 1, 1, 23, 24 ],
+          [ 24, 3, 3, 3, 3, 4, 18, 12 ],
+          [ 24, 3, 3, 3, 3, 2, 4, 12 ],
+          [ 24, 3, 2, 2, 3, 2, 4, 12 ],
+          [ 24, 1, 5, 7, 1, 2, 4, 12 ],
+          [ 24, 3, 2, 3, 3, 4, 18, 12 ],
+          [ 13, 5, 18, 5, 5, 19, 13, 12 ],
+          [ 13, 28, 31, 31, 31, 31, 29, 12 ]
+        ],
+        "flips": [
+          [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+          [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+          [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+          [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+          [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+          [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+          [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+          [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+        ]
+      }
     },
     {
       "name": "Cutscene phase 1",
+      "condition": "",
       "background": "bg2",
       "screens": [ { "position": [ 102, 6 ], "size": [ 2, 2 ], "palettes": [ [ 8, 8 ], [ 8, 8 ] ], "tiles": [ [ 2, 2 ], [ 2, 2 ] ], "flips": [ [ 1, 0 ], [ 3, 2 ] ] } ]
     },
     {
       "name": "Cutscene phase 2",
+      "condition": "",
       "background": "bg2",
       "screens": [
         {
@@ -1786,6 +1788,7 @@
     },
     {
       "name": "Cutscene phase 3",
+      "condition": "",
       "background": "bg2",
       "screens": [
         {
@@ -1826,6 +1829,7 @@
     },
     {
       "name": "Cutscene open",
+      "condition": "",
       "background": "bg2",
       "screens": [
         {
@@ -2260,7 +2264,39 @@
             [ 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0 ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [
+          [ 113, 113, 113, 113, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ]
+        ],
+        "tiles": [
+          [ 65, 38, 38, 16, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ]
+        ],
+        "flips": [
+          [ 0, 0, 0, 0, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ]
+        ]
+      }
     },
     {
       "name": "North 1 3",
@@ -2301,7 +2337,39 @@
             [ null, null, null, null, null, null, 3, 3, 3, 3, 3, 0, null, null, null, null, null, null, null, null ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [
+          [ 113, 113, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ]
+        ],
+        "tiles": [
+          [ 65, 16, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ]
+        ],
+        "flips": [
+          [ 0, 0, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ]
+        ]
+      }
     },
     {
       "name": "North 1 4",
@@ -2320,7 +2388,39 @@
           ],
           "flips": [ [ 1, 1, 3, 3, 3, 3, 3, 3, 0, 0 ], [ 1, 1, 3, 3, 3, 3, 3, 3, 0, 0 ], [ 1, 1, 3, 3, 3, 3, 3, 3, 0, 0 ], [ 1, 3, 3, 3, 3, 3, 3, 3, 3, 0 ] ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [
+          [ null, null, 113, 113, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ]
+        ],
+        "tiles": [
+          [ null, null, 17, 16, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ]
+        ],
+        "flips": [
+          [ null, null, 0, 0, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ]
+        ]
+      }
     },
     {
       "name": "South 1 1",
@@ -2435,7 +2535,39 @@
             [ null, null, 0, 0, 2, 0, null, null, 0, 0, null, null, 0, 0 ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, 113, 113, 113, null, null, null, null ]
+        ],
+        "tiles": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, 38, 38, 115, null, null, null, null ]
+        ],
+        "flips": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, 0, 0, 0, null, null, null, null ]
+        ]
+      }
     },
     {
       "name": "South 1 3 to 0",
@@ -3146,7 +3278,39 @@
             [ null, null, 2, 3, 2, 3 ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ 113, 113, null, null, null, null, null, null ]
+        ],
+        "tiles": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ 109, 107, null, null, null, null, null, null ]
+        ],
+        "flips": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ 0, 0, null, null, null, null, null, null ]
+        ]
+      }
     },
     {
       "name": "South 1 4",
@@ -3233,7 +3397,39 @@
             [ null, null, 0, 0, 2, 0, null, null, 0, 0, null, null, 0, 0 ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, 113, 113, null, null, null, null ]
+        ],
+        "tiles": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, 114, 115, null, null, null, null ]
+        ],
+        "flips": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, 0, 0, null, null, null, null ]
+        ]
+      }
     },
     {
       "name": "South 2 4 to 0",
@@ -3299,7 +3495,39 @@
             [ 2, 3, null, null, null, null, null, null, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 3, null, null, null, null ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, 113, 113 ]
+        ],
+        "tiles": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, 107, 110 ]
+        ],
+        "flips": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, 0, 0 ]
+        ]
+      }
     },
     {
       "name": "West 1 1",
@@ -3512,7 +3740,39 @@
             [ 1, 1, null, null, null, null, null, null ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [
+          [ 113, null, null, null, null, null, null, null ],
+          [ 113, null, null, null, null, null, null, null ],
+          [ 113, null, null, null, null, null, null, null ],
+          [ 113, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ]
+        ],
+        "tiles": [
+          [ 45, null, null, null, null, null, null, null ],
+          [ 38, null, null, null, null, null, null, null ],
+          [ 38, null, null, null, null, null, null, null ],
+          [ 8, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ]
+        ],
+        "flips": [
+          [ 0, null, null, null, null, null, null, null ],
+          [ 0, null, null, null, null, null, null, null ],
+          [ 0, null, null, null, null, null, null, null ],
+          [ 0, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ]
+        ]
+      }
     },
     {
       "name": "West 1 3",
@@ -3632,7 +3892,39 @@
           "tiles": [ [ 53, 137 ], [ 293, 137 ], [ 295, 293 ], [ 107, 296 ] ],
           "flips": [ [ 0, 0 ], [ 1, 2 ], [ 1, 1 ], [ 1, 1 ] ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [
+          [ 113, null, null, null, null, null, null, null ],
+          [ 113, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ]
+        ],
+        "tiles": [
+          [ 45, null, null, null, null, null, null, null ],
+          [ 8, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ]
+        ],
+        "flips": [
+          [ 0, null, null, null, null, null, null, null ],
+          [ 0, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ]
+        ]
+      }
     },
     {
       "name": "West 1 4",
@@ -3739,7 +4031,39 @@
             [ 1, 1, null, null, null, null, null, null ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ 113, null, null, null, null, null, null, null ],
+          [ 113, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ]
+        ],
+        "tiles": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ 17, null, null, null, null, null, null, null ],
+          [ 8, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ]
+        ],
+        "flips": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ 0, null, null, null, null, null, null, null ],
+          [ 0, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ]
+        ]
+      }
     },
     {
       "name": "West 2 4",
@@ -3859,7 +4183,77 @@
             [ 2, 3, 2, 3, null, null, null, null, null, null ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ 113, null, null, null, null, null, null, null ],
+          [ 113, null, null, null, null, null, null, null ]
+        ],
+        "tiles": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ 17, null, null, null, null, null, null, null ],
+          [ 8, null, null, null, null, null, null, null ]
+        ],
+        "flips": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ 0, null, null, null, null, null, null, null ],
+          [ 0, null, null, null, null, null, null, null ]
+        ]
+      }
+    },
+    {
+      "name": "North Corner (N11 or N13 and W11 or W13)",
+      "condition": "(n1:w | n1:s1) & (w1:w | w1:lake | w1:s1)",
+      "background": "bg2",
+      "screens": [ ],
+      "map": {
+        "palettes": [
+          [ 113, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ]
+        ],
+        "tiles": [
+          [ 17, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ]
+        ],
+        "flips": [
+          [ 0, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ]
+        ]
+      }
     },
     {
       "name": "South 1 3 to 0 and South 1 4",
@@ -3988,7 +4382,39 @@
             [ 0, 0, 2, 0, null, null ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ 113, null, null, null, null, null, null, null ]
+        ],
+        "tiles": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ 130, null, null, null, null, null, null, null ]
+        ],
+        "flips": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ 0, null, null, null, null, null, null, null ]
+        ]
+      }
     },
     {
       "name": "West 1 1 Lake (Requires West 1 1)",
@@ -4087,7 +4513,39 @@
             [ 0, 0, 0, 0, 0, 0, 1, null, null, null, null ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ 123, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ]
+        ],
+        "tiles": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ 65, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ]
+        ],
+        "flips": [
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ 0, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ],
+          [ null, null, null, null, null, null, null, null ]
+        ]
+      }
     }
   ]
 }

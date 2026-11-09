@@ -868,9 +868,9 @@
       "background": "bg2",
       "screens": [ ],
       "map": {
-        "palettes": [ [ null, null, null, 113 ], [ null, null, null, null ], [ null, null, null, 113 ], [ null, null, null, 113 ] ],
-        "tiles": [ [ null, null, null, 14 ], [ null, null, null, null ], [ null, null, null, 18 ], [ null, null, null, 18 ] ],
-        "flips": [ [ null, null, null, 0 ], [ null, null, null, null ], [ null, null, null, 0 ], [ null, null, null, 0 ] ]
+        "palettes": [ [ null, null, null, 113 ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "tiles": [ [ null, null, null, 14 ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "flips": [ [ null, null, null, 0 ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ]
       }
     },
     {
@@ -930,7 +930,12 @@
             [ null, null, 0, 0 ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 113 ], [ null, null, null, 113 ] ],
+        "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 18 ], [ null, null, null, 18 ] ],
+        "flips": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 0 ], [ null, null, null, 0 ] ]
+      }
     },
     {
       "name": "South 4",
