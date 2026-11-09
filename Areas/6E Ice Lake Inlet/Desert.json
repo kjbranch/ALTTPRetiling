@@ -1733,7 +1733,7 @@
         }
       ],
       "map": {
-        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ 119, null, null, null ], [ 113, null, null, null ] ],
+        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ 119, null, null, null ], [ 119, null, null, null ] ],
         "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ 35, null, null, null ], [ 6, null, null, null ] ],
         "flips": [ [ null, null, null, null ], [ null, null, null, null ], [ 0, null, null, null ], [ 0, null, null, null ] ]
       }

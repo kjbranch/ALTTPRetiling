@@ -1066,8 +1066,8 @@
         }
       ],
       "map": {
-        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ 113, 119, null, null ] ],
-        "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ 65, 28, null, null ] ],
+        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ 119, 119, null, null ] ],
+        "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ 13, 28, null, null ] ],
         "flips": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ 0, 0, null, null ] ]
       }
     },

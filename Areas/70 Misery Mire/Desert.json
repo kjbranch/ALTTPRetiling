@@ -3974,7 +3974,7 @@
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
-          [ null, null, null, null, null, null, 119, 113 ]
+          [ null, null, null, null, null, null, 119, 119 ]
         ],
         "tiles": [
           [ null, null, null, null, null, null, null, null ],
@@ -3984,7 +3984,7 @@
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
-          [ null, null, null, null, null, null, 29, 7 ]
+          [ null, null, null, null, null, null, 29, 3 ]
         ],
         "flips": [
           [ null, null, null, null, null, null, null, null ],

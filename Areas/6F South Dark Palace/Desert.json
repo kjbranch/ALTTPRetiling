@@ -2388,8 +2388,8 @@
             [ 8, 8, null, null, null, null ],
             [ 8, 8, null, null, null, null ],
             [ 8, 8, null, null, null, null ],
-            [ 3, 3, 8, 8, null, null ],
-            [ 3, 3, 8, 8, null, null ]
+            [ 8, 8, 8, 8, null, null ],
+            [ 8, 8, 8, 8, null, null ]
           ],
           "tiles": [
             [ 53, 53, 53, 137, 60, 291 ],
