@@ -1,5 +1,6 @@
 {
   "world": "dark",
+  "other_world_area": "Light World Clouds",
   "vanilla_map_id": null,
   "bg_color": [ 9, 19, 9 ],
   "bg_layering": "none",

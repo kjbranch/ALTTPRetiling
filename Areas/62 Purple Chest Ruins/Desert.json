@@ -609,7 +609,12 @@
             [ 0, 0, 0, 0, 0, 0, null, null, null, null, null, null, null, null ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ 113, null, null, 113 ], [ null, null, null, 113 ] ],
+        "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ 17, null, null, 7 ], [ null, null, null, 110 ] ],
+        "flips": [ [ null, null, null, null ], [ null, null, null, null ], [ 0, null, null, 0 ], [ null, null, null, 0 ] ]
+      }
     },
     {
       "name": "East 4",
@@ -732,7 +737,12 @@
             [ null, null, null, null, null, null, null, null, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 113 ], [ null, null, null, 113 ] ],
+        "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 16 ], [ null, null, null, 127 ] ],
+        "flips": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 0 ], [ null, null, null, 0 ] ]
+      }
     },
     {
       "name": "South 4",
@@ -797,7 +807,23 @@
             [ null, null, null, null, 0, 2, 1, 1, 3, 3, 3, 3, 3, 3, 0, 0, 2, 0 ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, 113, 113 ] ],
+        "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, 114, 18 ] ],
+        "flips": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, 0, 0 ] ]
+      }
+    },
+    {
+      "name": "East 4 and South 4",
+      "condition": "e:s2 & s:s2",
+      "background": "bg2",
+      "screens": [ ],
+      "map": {
+        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 113 ] ],
+        "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 7 ] ],
+        "flips": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 0 ] ]
+      }
     },
     {
       "name": "West 4 to 0",
@@ -900,7 +926,12 @@
             [ 2, 3, 2, 3, 2, 3, null, null, null, null, null, null, null, null ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ 113, null, null, null ], [ null, null, null, null ] ],
+        "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ 111, null, null, null ], [ null, null, null, null ] ],
+        "flips": [ [ null, null, null, null ], [ null, null, null, null ], [ 0, null, null, null ], [ null, null, null, null ] ]
+      }
     }
   ]
 }

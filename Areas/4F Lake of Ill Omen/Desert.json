@@ -620,7 +620,12 @@
             [ null, null, null, null, null, null, null, null, null, null, 0, 0, 0, 0, null, null, 0, 0 ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 113 ], [ null, null, null, 113 ] ],
+        "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 16 ], [ null, null, null, 7 ] ],
+        "flips": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 0 ], [ null, null, null, 0 ] ]
+      }
     },
     {
       "name": "South 3 to 0",
@@ -661,7 +666,12 @@
             [ 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 2, 3, 2, 3, 2, 3, 2, 3 ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, 113, 113 ] ],
+        "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, 24, 5 ] ],
+        "flips": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, 0, 0 ] ]
+      }
     },
     {
       "name": "East 4 and South 3 to 0",
@@ -675,7 +685,12 @@
           "tiles": [ [ 64, 53, null, null, null, null, null, null ], [ 64, 53, null, null, null, null, null, null ], [ null, null, 53, 53, 53, 53, 53, 53 ], [ null, null, 53, 53, 53, 53, 53, 53 ] ],
           "flips": [ [ 0, 0, null, null, null, null, null, null ], [ 2, 0, null, null, null, null, null, null ], [ null, null, 3, 0, 3, 0, 3, 0 ], [ null, null, 2, 3, 2, 3, 2, 3 ] ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 113 ], [ null, null, null, 113 ] ],
+        "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 16 ], [ null, null, null, 24 ] ],
+        "flips": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 0 ], [ null, null, null, 0 ] ]
+      }
     }
   ]
 }

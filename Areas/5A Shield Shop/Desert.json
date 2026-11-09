@@ -537,7 +537,12 @@
             [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 1, 2, 1, 1, 1, 1, 0, 1, 1, 3 ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [ [ null, 113, 113, 113 ], [ null, null, null, 113 ], [ null, null, null, 113 ], [ null, 113, 113, 113 ] ],
+        "tiles": [ [ null, 38, 38, 18 ], [ null, null, null, 18 ], [ null, null, null, 16 ], [ null, 107, 107, 127 ] ],
+        "flips": [ [ null, 0, 0, 0 ], [ null, null, null, 0 ], [ null, null, null, 0 ], [ null, 0, 0, 0 ] ]
+      }
     },
     {
       "name": "North 2",
@@ -600,7 +605,12 @@
             [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, null, null ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [ [ null, 113, 113, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "tiles": [ [ null, 16, 17, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "flips": [ [ null, 0, 0, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ]
+      }
     },
     {
       "name": "South 4",
@@ -653,7 +663,12 @@
             [ 2, 3, 0, 0, 0, 1, 1, 1, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 2, 3, 2, 3, 2, 3 ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, 113, 113 ] ],
+        "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, 114, 7 ] ],
+        "flips": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, 0, 0 ] ]
+      }
     },
     {
       "name": "West 3",
@@ -788,7 +803,12 @@
             [ 0, 1, 0, 1, 0, 1, 0, 0, null, null, null, null ]
           ]
         }
-      ]
+      ],
+      "map": {
+        "palettes": [ [ null, null, null, null ], [ 113, null, null, null ], [ 113, null, null, null ], [ null, null, null, null ] ],
+        "tiles": [ [ null, null, null, null ], [ 8, null, null, null ], [ 17, null, null, null ], [ null, null, null, null ] ],
+        "flips": [ [ null, null, null, null ], [ 0, null, null, null ], [ 0, null, null, null ], [ null, null, null, null ] ]
+      }
     }
   ]
 }
