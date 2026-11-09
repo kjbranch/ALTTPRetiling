@@ -441,8 +441,8 @@
         }
       ],
       "map": {
-        "palettes": [ [ 116, 116, 116, 116 ], [ 119, 119, 119, 119 ], [ 120, 117, 120, 119 ], [ 119, 119, 119, 119 ] ],
-        "tiles": [ [ 15, 15, 15, 19 ], [ 106, 106, 106, 106 ], [ 12, 18, 13, 3 ], [ 31, 31, 31, 2 ] ],
+        "palettes": [ [ 119, 119, 119, 119 ], [ 119, 119, 119, 119 ], [ 119, 117, 117, 119 ], [ 119, 119, 119, 119 ] ],
+        "tiles": [ [ 127, 127, 127, 127 ], [ 106, 106, 100, 99 ], [ 9, 18, 4, 3 ], [ 125, 31, 124, 5 ] ],
         "flips": [ [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ] ]
       }
     },
@@ -823,8 +823,8 @@
         }
       ],
       "map": {
-        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 113 ], [ null, null, null, 113 ] ],
-        "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 106 ], [ null, null, null, 6 ] ],
+        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 119 ], [ null, null, null, 119 ] ],
+        "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 57 ], [ null, null, null, 6 ] ],
         "flips": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 0 ], [ null, null, null, 0 ] ]
       }
     },
@@ -939,8 +939,8 @@
         }
       ],
       "map": {
-        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 113 ], [ null, null, 113, 113 ] ],
-        "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 105 ], [ null, null, 8, 18 ] ],
+        "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 119 ], [ null, null, 119, 119 ] ],
+        "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 56 ], [ null, null, 29, 12 ] ],
         "flips": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, 0 ], [ null, null, 0, 0 ] ]
       }
     }
