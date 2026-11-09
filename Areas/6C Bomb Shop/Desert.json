@@ -441,8 +441,8 @@
         }
       ],
       "map": {
-        "palettes": [ [ 120, 120, 117, 117 ], [ 120, 117, 117, 117 ], [ 117, 117, 117, 117 ], [ 117, 117, 117, 117 ] ],
-        "tiles": [ [ 19, 13, 27, 5 ], [ 19, 23, 27, 5 ], [ 23, 35, 27, 5 ], [ 15, 15, 28, 9 ] ],
+        "palettes": [ [ 120, 120, 117, 119 ], [ 120, 117, 117, 119 ], [ 117, 117, 117, 119 ], [ 117, 117, 117, 119 ] ],
+        "tiles": [ [ 19, 13, 7, 101 ], [ 19, 10, 7, 101 ], [ 10, 18, 7, 101 ], [ 3, 3, 8, 105 ] ],
         "flips": [ [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ] ]
       }
     },
@@ -3243,7 +3243,11 @@
         "flips": [ [ null, null, null, null ], [ 0, null, null, null ], [ 0, null, null, null ], [ null, null, null, null ] ]
       }
     },
-    { "name": "North 3 and East 4 to 0", "condition": "n:s1 & !e:s2", "background": "bg2", "screens": [ ],
+    {
+      "name": "North 3 and East 4 to 0",
+      "condition": "n:s1 & !e:s2",
+      "background": "bg2",
+      "screens": [ ],
       "map": {
         "palettes": [ [ null, null, null, 113 ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
         "tiles": [ [ null, null, null, 45 ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
