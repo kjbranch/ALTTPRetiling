@@ -1730,7 +1730,7 @@
           [ 24, 88, 1, 1, 1, 1, 18, 17 ],
           [ 24, 88, 22, 22, 22, 22, 22, 17 ],
           [ 24, 85, 81, 32, 86, 32, 32, 12 ],
-          [ 13, 19, 22, 88, 20, 22, 85, 19 ],
+          [ 13, 19, 22, 88, 20, 19, 85, 19 ],
           [ 113, 97, 97, 97, 97, 97, 97, 97 ]
         ],
         "flips": [
@@ -2215,7 +2215,7 @@
           [ null, null, null, null, null, null, null, 119 ]
         ],
         "tiles": [
-          [ null, null, null, null, null, null, 54, 87 ],
+          [ null, null, null, null, null, null, 54, 22 ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
