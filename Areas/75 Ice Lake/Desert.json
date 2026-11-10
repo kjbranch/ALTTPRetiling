@@ -1720,7 +1720,7 @@
           [ 119, 119, 115, 128, 128, 128, 115, 119 ],
           [ 119, 119, 115, 115, 128, 128, 115, 119 ],
           [ 119, 119, 115, 115, 128, 115, 128, 119 ],
-          [ 119, 119, 115, 115, 119, 119, 119, 115 ],
+          [ 119, 119, 115, 115, 115, 115, 115, 115 ],
           [ 119, 119, 119, 119, 119, 119, 119, 119 ]
         ],
         "tiles": [
@@ -1730,8 +1730,8 @@
           [ 13, 101, 0, 8, 36, 37, 0, 33 ],
           [ 6, 38, 0, 0, 38, 39, 0, 33 ],
           [ 15, 135, 0, 0, 8, 0, 8, 36 ],
-          [ 20, 101, 0, 0, 99, 106, 100, 0 ],
-          [ 125, 31, 31, 31, 31, 31, 31, 31 ]
+          [ 20, 101, 0, 0, 0, 0, 0, 0 ],
+          [ 21, 21, 21, 21, 21, 21, 125, 31 ]
         ],
         "flips": [
           [ 0, 0, 0, 0, 0, 0, 0, 0 ],
@@ -2751,8 +2751,8 @@
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, 36 ],
           [ null, null, null, null, null, null, null, 99 ],
-          [ null, null, null, null, null, null, 106, 107 ],
-          [ null, null, null, null, null, 124, 21, 21 ]
+          [ null, null, null, null, null, null, 99, 107 ],
+          [ null, null, null, null, null, 21, 21, 21 ]
         ],
         "flips": [
           [ null, null, null, null, null, 0, 0, 0 ],
@@ -3203,7 +3203,7 @@
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
-          [ 4, 28, null, null, null, null, null, null ]
+          [ 4, 3, null, null, null, null, null, null ]
         ],
         "flips": [
           [ null, null, null, null, null, null, null, null ],
