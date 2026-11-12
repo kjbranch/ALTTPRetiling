@@ -3456,7 +3456,7 @@
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
-          [ null, null, null, null, 4, 4, 4, 3 ]
+          [ null, null, null, null, 4, 4, 4, 12 ]
         ],
         "flips": [
           [ null, null, null, null, null, null, null, null ],
@@ -3984,7 +3984,7 @@
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
           [ null, null, null, null, null, null, null, null ],
-          [ null, null, null, null, null, null, 29, 3 ]
+          [ null, null, null, null, null, null, 29, 12 ]
         ],
         "flips": [
           [ null, null, null, null, null, null, null, null ],
