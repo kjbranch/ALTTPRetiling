@@ -834,6 +834,47 @@
       }
     },
     {
+      "name": "North 0 and East 3",
+      "condition": "n:c & e:s1",
+      "background": "bg2",
+      "screens": [
+        {
+          "position": [ 50, 0 ],
+          "size": [ 6, 8 ],
+          "palettes": [
+            [ 3, 3, 3, 3, null, null ],
+            [ 3, 3, 3, 3, null, null ],
+            [ 3, 3, 3, 3, 3, 3 ],
+            [ 3, 3, 3, 3, 3, 3 ],
+            [ 3, 3, 3, 3, null, null ],
+            [ 5, 3, 3, 3, null, null ],
+            [ null, null, 3, 3, null, null ],
+            [ null, null, 5, 3, null, null ]
+          ],
+          "tiles": [
+            [ 82, 83, 53, 53, null, null ],
+            [ 77, 82, 83, 53, null, null ],
+            [ 66, 67, 82, 83, 53, 53 ],
+            [ 68, 69, 77, 82, 83, 53 ],
+            [ 454, 65, 66, 67, null, null ],
+            [ 217, 455, 68, 69, null, null ],
+            [ null, null, 454, 65, null, null ],
+            [ null, null, 217, 455, null, null ]
+          ],
+          "flips": [
+            [ 0, 0, 0, 0, null, null ],
+            [ 0, 0, 0, 0, null, null ],
+            [ 0, 0, 0, 0, 0, 0 ],
+            [ 0, 0, 0, 0, 0, 0 ],
+            [ 0, 0, 0, 0, null, null ],
+            [ 0, 0, 0, 0, null, null ],
+            [ null, null, 0, 0, null, null ],
+            [ null, null, 0, 0, null, null ]
+          ]
+        }
+      ]
+    },
+    {
       "name": "East 4 to 0",
       "condition": "!e:s2",
       "background": "bg2",

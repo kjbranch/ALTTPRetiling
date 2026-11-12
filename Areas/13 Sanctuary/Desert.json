@@ -1441,7 +1441,7 @@
     },
     {
       "name": "West 3 to 0",
-      "condition": "!w:s1",
+      "condition": "!w:s1 & !w:w",
       "background": "bg2",
       "screens": [
         {
