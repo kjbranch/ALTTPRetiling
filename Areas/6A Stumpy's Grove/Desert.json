@@ -537,8 +537,8 @@
           "position": [ 32, 40 ],
           "size": [ 24, 24 ],
           "palettes": [
-            [ null, null, null, null, null, null, 8, 8, 8, 8, 8, 8, null, null, null, null, null, null, null, null, null, null, null, null ],
-            [ null, null, null, null, null, null, 8, 8, 8, 8, 8, 8, null, null, null, null, null, null, null, null, null, null, null, null ],
+            [ null, null, null, null, null, null, 8, 8, 8, 8, 8, 8, null, null, null, null, 8, 8, null, null, null, null, null, null ],
+            [ null, null, null, null, null, null, 8, 8, 8, 8, 8, 8, null, null, null, null, 8, 8, null, null, null, null, null, null ],
             [ null, null, null, null, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, null, null ],
             [ null, null, null, null, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, null, null ],
             [ null, null, null, null, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, null, null ],
@@ -563,8 +563,8 @@
             [ 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8 ]
           ],
           "tiles": [
-            [ null, null, null, null, null, null, 359, 359, 359, 359, 359, 421, null, null, null, null, null, null, null, null, null, null, null, null ],
-            [ null, null, null, null, null, null, 359, 421, 422, 422, 422, 420, null, null, null, null, null, null, null, null, null, null, null, null ],
+            [ null, null, null, null, null, null, 359, 359, 359, 359, 359, 421, null, null, null, null, 213, 213, null, null, null, null, null, null ],
+            [ null, null, null, null, null, null, 359, 421, 422, 422, 422, 420, null, null, null, null, 213, 233, null, null, null, null, null, null ],
             [ null, null, null, null, 359, 359, 421, 420, 233, 236, 236, 236, 236, 236, 236, 236, 236, 234, 108, 111, 112, 53, null, null ],
             [ null, null, null, null, 359, 421, 420, 233, 235, 457, 456, 457, 456, 457, 456, 457, 456, 107, 111, 112, 53, 53, null, null ],
             [ null, null, null, null, 359, 419, 233, 234, 108, 111, 141, 141, 141, 141, 141, 141, 141, 141, 112, 53, 53, 53, null, null ],
@@ -589,8 +589,8 @@
             [ 53, 53, 53, 53, 53, 53, 53, 53, 53, 53, 145, 111, 108, 235, 213, 213, 213, 213, 213, 213, 226, 61, 64, 53 ]
           ],
           "flips": [
-            [ null, null, null, null, null, null, 0, 0, 0, 0, 0, 1, null, null, null, null, null, null, null, null, null, null, null, null ],
-            [ null, null, null, null, null, null, 0, 1, 0, 0, 0, 1, null, null, null, null, null, null, null, null, null, null, null, null ],
+            [ null, null, null, null, null, null, 0, 0, 0, 0, 0, 1, null, null, null, null, 3, 3, null, null, null, null, null, null ],
+            [ null, null, null, null, null, null, 0, 1, 0, 0, 0, 1, null, null, null, null, 3, 0, null, null, null, null, null, null ],
             [ null, null, null, null, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, null, null ],
             [ null, null, null, null, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, null, null ],
             [ null, null, null, null, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 3, 0, null, null ],
