@@ -19,6 +19,38 @@
         },
         {
           "action": "draw",
+          "layer": "Cutscene phase 1"
+        },
+        {
+          "action": "wait",
+          "frames": 16
+        },
+        {
+          "action": "draw",
+          "layer": "Cutscene phase 2"
+        },
+        {
+          "action": "wait",
+          "frames": 16
+        },
+        {
+          "action": "draw",
+          "layer": "Cutscene phase 3"
+        },
+        {
+          "action": "wait",
+          "frames": 16
+        },
+        {
+          "action": "draw",
+          "layer": "Cutscene phase 4"
+        },
+        {
+          "action": "wait",
+          "frames": 16
+        },
+        {
+          "action": "draw",
           "layer": "Cutscene open"
         },
         {
