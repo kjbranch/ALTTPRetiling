@@ -3,6 +3,7 @@
     "closed",
     "wide",
     "dual-small",
+    "dual-upper",
     "small-1",
     "small-2",
     "light-only",
@@ -17,8 +18,8 @@
   "edge_variant_aliases": {
     "c": ["closed"],
     "w": ["wide"],
-    "s1": ["small-1", "dual-small"],
-    "s2": ["small-2", "dual-small"],
+    "s1": ["small-1", "dual-small", "dual-upper"],
+    "s2": ["small-2", "dual-small", "dual-upper"],
     "dual": ["dual-small"]
   },
   "slot_aliases": {
