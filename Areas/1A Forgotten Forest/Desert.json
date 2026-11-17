@@ -903,8 +903,8 @@
       }
     },
     {
-      "name": "North 2",
-      "condition": "n:dual",
+      "name": "North Not 1",
+      "condition": "!n:w",
       "background": "bg2",
       "screens": [
         {
@@ -968,6 +968,92 @@
         "palettes": [ [ null, 113, 113, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
         "tiles": [ [ null, 16, 17, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
         "flips": [ [ null, 0, 0, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ]
+      }
+    },
+    {
+      "name": "North 3",
+      "condition": "!n:w & !n:s2",
+      "background": "bg2",
+      "screens": [
+        {
+          "position": [ 42, 0 ],
+          "size": [ 14, 6 ],
+          "palettes": [
+            [ 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3 ],
+            [ 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3 ],
+            [ 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, null, null ],
+            [ 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, null, null ],
+            [ 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, null, null ],
+            [ 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, null, null ]
+          ],
+          "tiles": [
+            [ 53, 53, 53, 53, 53, 53, 53, 53, 53, 53, 53, 53, 53, 53 ],
+            [ 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 83, 53 ],
+            [ 70, 71, 70, 71, 70, 71, 70, 71, 70, 71, 70, 71, null, null ],
+            [ 72, 73, 72, 73, 72, 73, 72, 73, 72, 73, 72, 73, null, null ],
+            [ 74, 75, 74, 75, 74, 75, 74, 75, 74, 75, 74, 75, null, null ],
+            [ 245, 246, 245, 246, 245, 246, 245, 246, 245, 246, 245, 246, null, null ]
+          ],
+          "flips": [
+            [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+            [ 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0 ],
+            [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, null, null ],
+            [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, null, null ],
+            [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, null, null ],
+            [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, null, null ]
+          ]
+        }
+      ],
+      "map": {
+        "palettes": [ [ null, null, 113, 113 ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "tiles": [ [ null, null, 45, 14 ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "flips": [ [ null, null, 0, 0 ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ]
+      }
+    },
+    {
+      "name": "North 4 (Incompatible with North 3)",
+      "condition": "!n:w & !n:s1",
+      "background": "bg2",
+      "screens": [
+        {
+          "position": [ 10, 0 ],
+          "size": [ 12, 8 ],
+          "palettes": [
+            [ 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3 ],
+            [ 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3 ],
+            [ 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3 ],
+            [ 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3 ],
+            [ null, null, 3, 3, 3, 3, null, null, null, null, null, null ],
+            [ null, null, 3, 3, 3, 5, null, null, null, null, null, null ],
+            [ null, null, 3, 3, null, null, null, null, null, null, null, null ],
+            [ null, null, 3, 5, null, null, null, null, null, null, null, null ]
+          ],
+          "tiles": [
+            [ 53, 53, 53, 53, 83, 119, 70, 71, 70, 71, 70, 71 ],
+            [ 53, 53, 53, 83, 119, 77, 72, 73, 72, 73, 72, 73 ],
+            [ 53, 53, 83, 119, 67, 66, 74, 75, 74, 75, 74, 75 ],
+            [ 53, 83, 119, 77, 69, 68, 245, 246, 245, 246, 245, 246 ],
+            [ null, null, 67, 66, 65, 454, null, null, null, null, null, null ],
+            [ null, null, 69, 68, 455, 218, null, null, null, null, null, null ],
+            [ null, null, 65, 454, null, null, null, null, null, null, null, null ],
+            [ null, null, 455, 218, null, null, null, null, null, null, null, null ]
+          ],
+          "flips": [
+            [ 3, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0 ],
+            [ 2, 3, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0 ],
+            [ 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0 ],
+            [ 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0 ],
+            [ null, null, 1, 1, 1, 1, null, null, null, null, null, null ],
+            [ null, null, 1, 1, 1, 0, null, null, null, null, null, null ],
+            [ null, null, 1, 1, null, null, null, null, null, null, null, null ],
+            [ null, null, 1, 0, null, null, null, null, null, null, null, null ]
+          ]
+        }
+      ],
+      "map": {
+        "palettes": [ [ 113, 113, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "tiles": [ [ 45, 45, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "flips": [ [ 0, 0, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ]
       }
     },
     {
@@ -1377,6 +1463,17 @@
         "palettes": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, 113, null, null ] ],
         "tiles": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, 107, null, null ] ],
         "flips": [ [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ], [ null, 0, null, null ] ]
+      }
+    },
+    {
+      "name": "East 0 and North 3",
+      "condition": "e:c & !n:w & !n:s2",
+      "background": "bg2",
+      "screens": [ ],
+      "map": {
+        "palettes": [ [ null, null, null, 113 ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "tiles": [ [ null, null, null, 45 ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ],
+        "flips": [ [ null, null, null, 0 ], [ null, null, null, null ], [ null, null, null, null ], [ null, null, null, null ] ]
       }
     },
     {
