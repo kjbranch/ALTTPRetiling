@@ -2913,7 +2913,7 @@
       "id": 170,
       "priority": false,
       "collision": 0,
-      "h_flippable": false,
+      "h_flippable": true,
       "v_flippable": false,
       "pixels": [
         [ 2, 2, 2, 2, 2, 3, 3, 4 ],
@@ -2930,7 +2930,7 @@
       "id": 171,
       "priority": false,
       "collision": 0,
-      "h_flippable": false,
+      "h_flippable": true,
       "v_flippable": false,
       "pixels": [
         [ 2, 2, 2, 3, 3, 2, 1, 1 ],
@@ -2947,7 +2947,7 @@
       "id": 172,
       "priority": false,
       "collision": 0,
-      "h_flippable": false,
+      "h_flippable": true,
       "v_flippable": false,
       "pixels": [
         [ 4, 4, 4, 4, 4, 4, 4, 3 ],
@@ -2964,7 +2964,7 @@
       "id": 173,
       "priority": false,
       "collision": 0,
-      "h_flippable": false,
+      "h_flippable": true,
       "v_flippable": false,
       "pixels": [
         [ 1, 2, 4, 4, 3, 2, 1, 1 ],
