@@ -2216,7 +2216,7 @@
       "id": 129,
       "priority": false,
       "collision": 0,
-      "h_flippable": false,
+      "h_flippable": true,
       "v_flippable": false,
       "pixels": [
         [ 8, 8, 8, 8, 8, 8, 8, 8 ],
