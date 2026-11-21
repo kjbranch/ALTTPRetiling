@@ -3661,8 +3661,8 @@
       ]
     },
     {
-      "name": "North 3 and East 4 to 0",
-      "condition": "n:s1 & !e:s2",
+      "name": "North 3 or North 0 and East 4 to 0",
+      "condition": "(n:s1 | n:c)  & !e:s2",
       "background": "bg2",
       "screens": [ ],
       "map": {
